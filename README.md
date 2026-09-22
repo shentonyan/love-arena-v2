@@ -6,6 +6,25 @@
 
 **当前状态**：工作流已验证。人工金标准尚未采集，现有“判官通过验证”的结论基于 Claude 标注，只能说明流程可用。完整记录见 [`docs/EXPERIMENT_REPORT.md`](docs/EXPERIMENT_REPORT.md)。
 
+## English summary
+
+**Question.** Can small local LLM judges stand in for human judgment on the love-language criteria of PoL (Proof of Love)? The task: rewrite a hostile sentence so that the hostility is gone but the speaker's real complaint survives.
+
+**Interface.** `jev_local.py` reproduces the Choice / Score / Noul decision pattern of TypeSafe's Jev on Ollama: the judge emits a single option token and the answer is read from `top_logprobs`. Scales are asked in forward and reversed order, and each Noul statement is asked together with its negation, to expose position bias. A `coverage` value flags answers whose probability mass falls outside the allowed tokens. **This project does not call Jev**; it reproduces the interface pattern with open models.
+
+**Design.** 60 sentences (50 Chinese, 10 English) × 3 models (gemma4:26b, qwen2.5:7b, llama3.1:8b) × 2 samples = 360 rewrites. All three models judge all rewrites, including their own (fully crossed), on five dimensions: hate residue, honesty (complaint kept), fluency, equal connection, condescension. A linear judge + contestant + sentence model removes judge severity and self-preference (a linear approximation of many-facet Rasch). Per-judge Platt calibration with leave-one-out Brier. Primary score J = (1 − hate residue) × honesty × fluency, following TextDetox. Sentence-level cluster bootstrap, 2,000 reps. Prompt variants are selected on a 42-item dev set; judge admission (Spearman ≥ 0.40 or AUC ≥ 0.70, pre-registered) is decided only on a disjoint 42-item holdout set. Preference pairs are produced only if every core dimension has at least two admitted judges.
+
+**Results (`runs/flowtest`).**
+
+- Whitewashing: although the rewrite prompt forbids it, 26–31% of rewrites drop the complaint, flip it into self-blame, or turn it into excusing the other party (gemma 1/14, llama 8/14 on the holdout set).
+- Judges: only gemma4:26b passes every dimension (honesty AUC 0.97, hate residue ρ 0.45). llama3.1:8b shows almost no variance on Chinese items. qwen2.5:7b answers scale questions by position (forward/reversed averages cluster near the midpoint) but works on binary questions.
+- Tuning picked noise: qwen's honesty variant led by 0.01 on the dev set and fell from AUC 0.79 to 0.50 on the holdout set.
+- J: gemma 0.63 [0.57, 0.68] > qwen 0.40 [0.33, 0.47] > llama 0.31 [0.25, 0.38]. **Not trustworthy as a ranking**: hate residue and honesty each have a single admitted judge, gemma, which is also a contestant, so its self-preference cannot be corrected (β_self = +0.90 on honesty in the earlier two-judge run). The pairs step correctly refuses to emit preference pairs.
+
+**Limitations.** All validation labels were produced by Claude, not by humans (marked `CLAUDE标注(非人工)` in every file); the two dev-set passes come from one annotator, so inter-annotator α is inflated. The results show that the pipeline works end to end, including its negative-result path; they are not evidence that the judges are valid. 42-item validation sets give Spearman intervals of roughly ±0.25. The results apply only to these 60 sentences and these three models. "Hate language" (恨语) is a PoL concept and is not equivalent to toxicity or hate speech.
+
+**Reproduce without Ollama:** `python run.py validate --run flowtest --tuned --set holdout` then `python run.py analyze --run flowtest --tuned --quick`. Full record: [`docs/EXPERIMENT_REPORT.md`](docs/EXPERIMENT_REPORT.md) (Chinese); references: [`docs/REFERENCES.md`](docs/REFERENCES.md).
+
 ## 主要发现
 
 - 改写提示词明确要求“不能粉饰”，但 26–31% 的改写仍把说话者的不满改没了、反转了，或者变成替对方开脱。
@@ -64,3 +83,7 @@ python run.py analyze  --run flowtest --tuned --quick
 
 - 仓库里的代码比产生 `runs/flowtest` 结果时多了并发请求，判定逻辑没有变化；在同一份判定数据上重跑分析，点估计完全一致。
 - 所有标注文件的备注列都标有“CLAUDE标注(非人工)”。
+
+## License
+
+MIT，见 [`LICENSE`](LICENSE)。 / MIT, see [`LICENSE`](LICENSE).
