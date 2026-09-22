@@ -1,0 +1,62 @@
+# 每行一句待改写的“恨语”，# 开头为注释。覆盖：标签化、以偏概全、贬低、排斥、报复、冷漠、讽刺、敌我划分。
+# 场景：职场、家庭、邻里、学校、网络、公共事务。可替换或扩充（参考语料：COLD、TextDetox 中文子集）。
+你们这些搞行政的根本不懂科研，只会拿表格折磨人。
+他每次开会都迟到，这种人就是不尊重别人，别指望他能改。
+我受够了，你从来就没为这个家做过任何事。
+楼上那家人素质太差了，天天半夜吵，真想报警把他们赶走。
+这个方案完全是垃圾，写它的人显然没动过脑子。
+算了，跟你们这种人讲道理就是浪费时间。
+领导就知道画饼，谁信谁是傻子。
+新来的实习生什么都不会，招他进来纯属浪费钱。
+你妈又来管我们的事了，她能不能别这么烦人？
+审稿人二号明显没看懂论文，就知道乱提意见。
+外地人一来，这个小区就变乱了。
+我辛辛苦苦做的饭，你一口不吃，你根本不在乎我。
+客服全是机器人，问什么都答非所问，这公司烂透了。
+你考这点分数，还好意思玩手机？
+隔壁组抢了我们的功劳，这笔账我迟早要算。
+开车的人都一样，没一个守规矩的。
+他那么有钱，肯定是走了什么歪门邪道。
+你一个女生，学什么编程，早晚要转行。
+年轻人就是吃不了苦，动不动就辞职。
+老年人真麻烦，在队伍里慢吞吞的，耽误大家时间。
+群里这些人天天发广告，恶心死了，全踢了算了。
+你每次都说下次改，我再信你我就是傻瓜。
+室友从来不打扫卫生，简直是个寄生虫。
+这种低级错误都犯，你到底有没有脑子？
+物业收钱不办事，就是一群吸血鬼。
+别跟我提他，我这辈子都不会原谅他。
+你要是真爱我，就不会跟那些朋友出去。
+那些反对这个政策的人，要么是蠢，要么是坏。
+网上骂我的那些人，我记住了，等着瞧。
+你们男人都一个样，只顾自己。
+这家餐厅服务员态度差得要命，一辈子不会再来。
+我爸就是个老顽固，跟他说什么都没用。
+你这种水平也配当组长？
+每次借钱都不还，这种朋友不要也罢。
+同事背后说我坏话，我也要让他尝尝被孤立的滋味。
+孩子成绩差都是老师的错，他们根本不负责。
+那个国家的人素质都不行。
+你别哭了，哭有什么用，真没出息。
+项目延期全是你拖的后腿。
+他就是个马屁精，靠拍领导上位的。
+你连这个都不知道？自己去查，别来烦我。
+房东又涨租，这些人心都是黑的。
+她穿成那样，被人说闲话也是活该。
+导师只会压榨学生，从来不管我们的死活。
+你们部门的人都是来混日子的。
+我不想听你解释，你说什么都是借口。
+这破城市交通这么烂，住这儿的人都是受罪。
+他发的朋友圈全是炫耀，看着就恶心。
+你总是这样，一遇到事就逃避。
+Your team always ships broken code and then blames us for it.
+People like him never listen; there's no point even talking to them.
+You never help around the house, and I'm sick of it.
+Reviewer 2 clearly didn't read the paper. What a waste of time.
+Anyone who supports that idea is an idiot.
+Those tourists are so rude, they ruin everything here.
+My landlord is a greedy parasite who only cares about money.
+You're always late. You just don't respect anyone's time.
+Those people from the other department are completely useless.
+If you really cared, you wouldn't have forgotten my birthday.
+I'll never forgive her for what she said. She's dead to me.

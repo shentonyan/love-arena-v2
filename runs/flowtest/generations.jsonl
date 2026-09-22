@@ -1,0 +1,360 @@
+{"id": "s000-gemma426b-k0", "sent": 0, "src": "你们这些搞行政的根本不懂科研，只会拿表格折磨人。", "model": "gemma4:26b", "k": 0, "out": "我希望行政流程能更贴近科研实际，现在的表格填报确实增加了我的科研负担，让我们能有更多精力投入到研究中。"}
+{"id": "s000-gemma426b-k1", "sent": 0, "src": "你们这些搞行政的根本不懂科研，只会拿表格折磨人。", "model": "gemma4:26b", "k": 1, "out": "我感到科研工作非常繁重，目前行政流程中的表格填报确实增加了我的负担，希望我们能找到更高效的协作方式。"}
+{"id": "s001-gemma426b-k0", "sent": 1, "src": "他每次开会都迟到，这种人就是不尊重别人，别指望他能改。", "model": "gemma4:26b", "k": 0, "out": "他每次开会都会迟到，这让我觉得自己的时间没有被重视，我担心这种行为会影响我们长期的协作。"}
+{"id": "s001-gemma426b-k1", "sent": 1, "src": "他每次开会都迟到，这种人就是不尊重别人，别指望他能改。", "model": "gemma4:26b", "k": 1, "out": "他每次开会都迟到，这让我感到自己的时间没有被尊重，我担心这种行为会一直持续下去，很难看到改变。"}
+{"id": "s002-gemma426b-k0", "sent": 2, "src": "我受够了，你从来就没为这个家做过任何事。", "model": "gemma4:26b", "k": 0, "out": "我感到很累，因为我在这份家务和责任中承受了太多，我希望能看到你也能参与进来，和我一起承担。"}
+{"id": "s002-gemma426b-k1", "sent": 2, "src": "我受够了，你从来就没为这个家做过任何事。", "model": "gemma4:26b", "k": 1, "out": "我感到很累，我希望能在家里感受到你更多的参与和支持。"}
+{"id": "s003-gemma426b-k0", "sent": 3, "src": "楼上那家人素质太差了，天天半夜吵，真想报警把他们赶走。", "model": "gemma4:26b", "k": 0, "out": "楼上的邻居半夜经常有声音，吵到我休息了，这让我感到很困扰，希望能有个安静的睡眠环境。"}
+{"id": "s003-gemma426b-k1", "sent": 3, "src": "楼上那家人素质太差了，天天半夜吵，真想报警把他们赶走。", "model": "gemma4:26b", "k": 1, "out": "楼上邻居半夜的声音经常影响到我的休息，这让我感到很困扰，我希望能有一个安静的睡眠环境。"}
+{"id": "s004-gemma426b-k0", "sent": 4, "src": "这个方案完全是垃圾，写它的人显然没动过脑子。", "model": "gemma4:26b", "k": 0, "out": "这个方案目前还不够完善，我感觉在逻辑和深度上还需要进一步思考。"}
+{"id": "s004-gemma426b-k1", "sent": 4, "src": "这个方案完全是垃圾，写它的人显然没动过脑子。", "model": "gemma4:26b", "k": 1, "out": "这个方案目前还不够完善，我感觉其中缺乏一些深层的思考。"}
+{"id": "s005-gemma426b-k0", "sent": 5, "src": "算了，跟你们这种人讲道理就是浪费时间。", "model": "gemma4:26b", "k": 0, "out": "我觉得我们现在的沟通方式很难达成共识，我感到有些挫败，想先停下来冷静一下。"}
+{"id": "s005-gemma426b-k1", "sent": 5, "src": "算了，跟你们这种人讲道理就是浪费时间。", "model": "gemma4:26b", "k": 1, "out": "我觉得我们现在的沟通方式很难达成共识，这让我感到有些挫败。"}
+{"id": "s006-gemma426b-k0", "sent": 6, "src": "领导就知道画饼，谁信谁是傻子。", "model": "gemma4:26b", "k": 0, "out": "我感觉领导提供的愿景目前还缺乏具体的落地细节和实质性的保障，这让我很难产生信任感。"}
+{"id": "s006-gemma426b-k1", "sent": 6, "src": "领导就知道画饼，谁信谁是傻子。", "model": "gemma4:26b", "k": 1, "out": "我对领导提到的这些规划感到有些不确定，因为目前我还没看到实际的落地执行，这让我很难建立起长期的信任感。"}
+{"id": "s007-gemma426b-k0", "sent": 7, "src": "新来的实习生什么都不会，招他进来纯属浪费钱。", "model": "gemma4:26b", "k": 0, "out": "这位新来的实习生目前在业务上手还比较慢，我们需要评估一下如何更好地带他，或者重新考虑一下招聘的需求。"}
+{"id": "s007-gemma426b-k1", "sent": 7, "src": "新来的实习生什么都不会，招他进来纯属浪费钱。", "model": "gemma4:26b", "k": 1, "out": "这位新来的实习生目前还没上手，业务能力还有待提升，招他进来后的培养成本确实比预想的高。"}
+{"id": "s008-gemma426b-k0", "sent": 8, "src": "你妈又来管我们的事了，她能不能别这么烦人？", "model": "gemma4:26b", "k": 0, "out": "我很在意她对我们生活的介入，这让我感到有些困扰和压力。"}
+{"id": "s008-gemma426b-k1", "sent": 8, "src": "你妈又来管我们的事了，她能不能别这么烦人？", "model": "gemma4:26b", "k": 1, "out": "我很在意我们之间的边界感，当你母亲介入我们的生活时，我会感到有些困扰和压力。"}
+{"id": "s009-gemma426b-k0", "sent": 9, "src": "审稿人二号明显没看懂论文，就知道乱提意见。", "model": "gemma4:26b", "k": 0, "out": "审稿人二号的意见似乎没有准确捕捉到论文的核心观点，这让我感到有些困惑。"}
+{"id": "s009-gemma426b-k1", "sent": 9, "src": "审稿人二号明显没看懂论文，就知道乱提意见。", "model": "gemma4:26b", "k": 1, "out": "审稿人二号的意见似乎与我论文的核心论点有些偏差，我可能需要更清晰地解释我的研究逻辑。"}
+{"id": "s010-gemma426b-k0", "sent": 10, "src": "外地人一来，这个小区就变乱了。", "model": "gemma4:26b", "k": 0, "out": "随着新住户的迁入，我感觉到小区的环境和秩序发生了一些变化，这让我有些不适应。"}
+{"id": "s010-gemma426b-k1", "sent": 10, "src": "外地人一来，这个小区就变乱了。", "model": "gemma4:26b", "k": 1, "out": "新搬进来的邻居变多后，我感觉小区的环境和秩序变得有些不一样了。"}
+{"id": "s011-gemma426b-k0", "sent": 11, "src": "我辛辛苦苦做的饭，你一口不吃，你根本不在乎我。", "model": "gemma4:26b", "k": 0, "out": "我特意做了你喜欢的饭菜，但看到你没动筷子，我感到有点失落，我希望能感受到你对我的在意。"}
+{"id": "s011-gemma426b-k1", "sent": 11, "src": "我辛辛苦苦做的饭，你一口不吃，你根本不在乎我。", "model": "gemma4:26b", "k": 1, "out": "我花了很多心思准备这顿饭，看到你没怎么吃，我感到有些失落，也有些担心你是不是不在意我的付出。"}
+{"id": "s012-gemma426b-k0", "sent": 12, "src": "客服全是机器人，问什么都答非所问，这公司烂透了。", "model": "gemma4:26b", "k": 0, "out": "目前的客服回复大多是自动生成的，无法准确解决我提出的问题，这种沟通体验让我觉得很受挫。"}
+{"id": "s012-gemma426b-k1", "sent": 12, "src": "客服全是机器人，问什么都答非所问，这公司烂透了。", "model": "gemma4:26b", "k": 1, "out": "目前的客服回复感觉像是在自动回复，没能真正解决我的问题，这种沟通体验让我觉得很挫败。"}
+{"id": "s013-gemma426b-k0", "sent": 13, "src": "你考这点分数，还好意思玩手机？", "model": "gemma4:26b", "k": 0, "out": "看到这次的分数，我有点担心你的学习进度，你现在想玩会儿手机放松一下吗？"}
+{"id": "s013-gemma426b-k1", "sent": 13, "src": "你考这点分数，还好意思玩手机？", "model": "gemma4:26b", "k": 1, "out": "看到这次的分数，我有些担心你的学习状态，如果你能放下手机专注一会儿，我会觉得更有安全感。"}
+{"id": "s014-gemma426b-k0", "sent": 14, "src": "隔壁组抢了我们的功劳，这笔账我迟早要算。", "model": "gemma4:26b", "k": 0, "out": "隔壁组把我们的成果归功于他们，这让我感到很不公平，我需要找机会把我们的贡献说清楚。"}
+{"id": "s014-gemma426b-k1", "sent": 14, "src": "隔壁组抢了我们的功劳，这笔账我迟早要算。", "model": "gemma4:26b", "k": 1, "out": "隔壁组在这次项目中承担了原本属于我们的部分成果，这让我觉得我们的努力没有得到应有的认可，我希望之后能找机会把这件事说明白。"}
+{"id": "s015-gemma426b-k0", "sent": 15, "src": "开车的人都一样，没一个守规矩的。", "model": "gemma4:26b", "k": 0, "out": "路上开车的人有时不太遵守交通规则，这让我感到有些不安和困扰。"}
+{"id": "s015-gemma426b-k1", "sent": 15, "src": "开车的人都一样，没一个守规矩的。", "model": "gemma4:26b", "k": 1, "out": "我很担心路上的交通秩序，看到大家都不遵守交通规则时，我会感到不安。"}
+{"id": "s016-gemma426b-k0", "sent": 16, "src": "他那么有钱，肯定是走了什么歪门邪道。", "model": "gemma4:26b", "k": 0, "out": "我对他财富的获取方式感到困惑，也很担心他是否在过程中承担了不该有的风险。"}
+{"id": "s016-gemma426b-k1", "sent": 16, "src": "他那么有钱，肯定是走了什么歪门邪道。", "model": "gemma4:26b", "k": 1, "out": "我很在意他财富积累的过程，因为我希望能了解他取得成功的真实方式。"}
+{"id": "s017-gemma426b-k0", "sent": 17, "src": "你一个女生，学什么编程，早晚要转行。", "model": "gemma4:26b", "k": 0, "out": "我担心编程的学习过程对你来说会有挑战，也有些顾虑你未来职业发展的稳定性。"}
+{"id": "s017-gemma426b-k1", "sent": 17, "src": "你一个女生，学什么编程，早晚要转行。", "model": "gemma4:26b", "k": 1, "out": "我担心编程对女性来说可能面临一些职业挑战，以后可能会面临转行的问题。"}
+{"id": "s018-gemma426b-k0", "sent": 18, "src": "年轻人就是吃不了苦，动不动就辞职。", "model": "gemma4:26b", "k": 0, "out": "我发现现在的年轻人面对压力时，似乎更倾向于通过离开工作来寻求改变，这让我对这种职业选择的趋势感到有些困惑和担忧。"}
+{"id": "s018-gemma426b-k1", "sent": 18, "src": "年轻人就是吃不了苦，动不动就辞职。", "model": "gemma4:26b", "k": 1, "out": "我发现现在的年轻人对职业环境的要求更高了，面对困难时，他们更倾向于通过换个环境来寻找更适合自己的发展方式。"}
+{"id": "s019-gemma426b-k0", "sent": 19, "src": "老年人真麻烦，在队伍里慢吞吞的，耽误大家时间。", "model": "gemma4:26b", "k": 0, "out": "排队的时候看到有老人走得比较慢，会让整体进度变慢，我会感到有些焦虑。"}
+{"id": "s019-gemma426b-k1", "sent": 19, "src": "老年人真麻烦，在队伍里慢吞吞的，耽误大家时间。", "model": "gemma4:26b", "k": 1, "out": "排队时看到老人家走得比较慢，会让整体的进度变慢一些，我也因此感到有些焦急。"}
+{"id": "s020-gemma426b-k0", "sent": 20, "src": "群里这些人天天发广告，恶心死了，全踢了算了。", "model": "gemma4:26b", "k": 0, "out": "群里最近广告很多，影响了大家的交流体验，我们要不要考虑清理一下这些账号？"}
+{"id": "s020-gemma426b-k1", "sent": 20, "src": "群里这些人天天发广告，恶心死了，全踢了算了。", "model": "gemma4:26b", "k": 1, "out": "群里一直有很多广告信息，影响了大家的交流体验，我们要不要考虑清理一下这些账号？"}
+{"id": "s021-gemma426b-k0", "sent": 21, "src": "你每次都说下次改，我再信你我就是傻瓜。", "model": "gemma4:26b", "k": 0, "out": "我发现你承诺过的事情经常没有落实，这让我对你的信用产生了怀疑，我感到很难再信任你了。"}
+{"id": "s021-gemma426b-k1", "sent": 21, "src": "你每次都说下次改，我再信你我就是傻瓜。", "model": "gemma4:26b", "k": 1, "out": "我发现你承诺过的事情经常没有落实，这让我感到很失望，也很难再对你的承诺产生信任。"}
+{"id": "s022-gemma426b-k0", "sent": 22, "src": "室友从来不打扫卫生，简直是个寄生虫。", "model": "gemma4:26b", "k": 0, "out": "我感觉家里有些地方变脏了，我希望我们能一起分担一下打扫卫生的工作。"}
+{"id": "s022-gemma426b-k1", "sent": 22, "src": "室友从来不打扫卫生，简直是个寄生虫。", "model": "gemma4:26b", "k": 1, "out": "我希望我们能共同分担一下家务，因为目前的卫生状况让我觉得有些难以维持。"}
+{"id": "s023-gemma426b-k0", "sent": 23, "src": "这种低级错误都犯，你到底有没有脑子？", "model": "gemma4:26b", "k": 0, "out": "我对这个错误感到有些困扰，我希望我们能一起看看问题出在哪里，避免下次再发生。"}
+{"id": "s023-gemma426b-k1", "sent": 23, "src": "这种低级错误都犯，你到底有没有脑子？", "model": "gemma4:26b", "k": 1, "out": "这次出错让我有点困扰，我希望能和你一起看看问题出在哪里，下次能避免它。"}
+{"id": "s024-gemma426b-k0", "sent": 24, "src": "物业收钱不办事，就是一群吸血鬼。", "model": "gemma4:26b", "k": 0, "out": "我付了物业费，但目前还没看到相应的服务落实，这让我觉得有些不值，希望能看到实际的行动。"}
+{"id": "s024-gemma426b-k1", "sent": 24, "src": "物业收钱不办事，就是一群吸血鬼。", "model": "gemma4:26b", "k": 1, "out": "我支付了物业费，但目前的物业服务并没有达到预期的标准，希望你们能切实履行职责，解决我们遇到的问题。"}
+{"id": "s025-gemma426b-k0", "sent": 25, "src": "别跟我提他，我这辈子都不会原谅他。", "model": "gemma4:26b", "k": 0, "out": "我现在还没法面对关于他的事，提到他会让我感到很痛苦，我还需要时间来处理这种情绪。"}
+{"id": "s025-gemma426b-k1", "sent": 25, "src": "别跟我提他，我这辈子都不会原谅他。", "model": "gemma4:26b", "k": 1, "out": "提起他会让我感到很难过，我现在还没有办法面对这段往事。"}
+{"id": "s026-gemma426b-k0", "sent": 26, "src": "你要是真爱我，就不会跟那些朋友出去。", "model": "gemma4:26b", "k": 0, "out": "我希望你能多留点时间陪我，因为我很看重我们在一起的时刻。"}
+{"id": "s026-gemma426b-k1", "sent": 26, "src": "你要是真爱我，就不会跟那些朋友出去。", "model": "gemma4:26b", "k": 1, "out": "我希望你能多花点时间陪我，当你把精力都放在朋友身上时，我会觉得被忽视了。"}
+{"id": "s027-gemma426b-k0", "sent": 27, "src": "那些反对这个政策的人，要么是蠢，要么是坏。", "model": "gemma4:26b", "k": 0, "out": "我对反对这个政策的人感到困惑，我不理解他们的立场，也无法理解他们背后的动机。"}
+{"id": "s027-gemma426b-k1", "sent": 27, "src": "那些反对这个政策的人，要么是蠢，要么是坏。", "model": "gemma4:26b", "k": 1, "out": "我很难理解为什么有些人会反对这项政策，我希望能更清楚地了解他们的立场和出发点。"}
+{"id": "s028-gemma426b-k0", "sent": 28, "src": "网上骂我的那些人，我记住了，等着瞧。", "model": "gemma4:26b", "k": 0, "out": "网上那些指责我的言论让我感到很难受，我也希望能有机会向他们说明情况，或者让他们看到我的态度。"}
+{"id": "s028-gemma426b-k1", "sent": 28, "src": "网上骂我的那些人，我记住了，等着瞧。", "model": "gemma4:26b", "k": 1, "out": "网上那些对我不友善的言论让我感到很受伤，我很难不去在意它们，甚至产生了一些想要反击的情绪。"}
+{"id": "s029-gemma426b-k0", "sent": 29, "src": "你们男人都一个样，只顾自己。", "model": "gemma4:26b", "k": 0, "out": "我有时会觉得被忽视了，希望你能多关注我的感受，而不仅仅是专注于你自己的事情。"}
+{"id": "s029-gemma426b-k1", "sent": 29, "src": "你们男人都一个样，只顾自己。", "model": "gemma4:26b", "k": 1, "out": "我有时会觉得你不太顾及我的感受，这让我感到有些孤单。"}
+{"id": "s030-gemma426b-k0", "sent": 30, "src": "这家餐厅服务员态度差得要命，一辈子不会再来。", "model": "gemma4:26b", "k": 0, "out": "这家餐厅的服务态度让我感到很不舒服，我不想再来这里用餐了。"}
+{"id": "s030-gemma426b-k1", "sent": 30, "src": "这家餐厅服务员态度差得要命，一辈子不会再来。", "model": "gemma4:26b", "k": 1, "out": "这次用餐时服务员的态度让我感到很不舒服，以后我不想再来这家餐厅了。"}
+{"id": "s031-gemma426b-k0", "sent": 31, "src": "我爸就是个老顽固，跟他说什么都没用。", "model": "gemma4:26b", "k": 0, "out": "我觉得爸爸的思想比较传统，我尝试跟他沟通时，感觉很难达成共识。"}
+{"id": "s031-gemma426b-k1", "sent": 31, "src": "我爸就是个老顽固，跟他说什么都没用。", "model": "gemma4:26b", "k": 1, "out": "我觉得我爸的思想比较传统，我尝试和他沟通时，总觉得很难达成共识。"}
+{"id": "s032-gemma426b-k0", "sent": 32, "src": "你这种水平也配当组长？", "model": "gemma4:26b", "k": 0, "out": "我希望我们在团队协作中能有更清晰的职责分工，或者在遇到困难时能有更好的支持，目前我对目前的领导方式感到有些困惑。"}
+{"id": "s032-gemma426b-k1", "sent": 32, "src": "你这种水平也配当组长？", "model": "gemma4:26b", "k": 1, "out": "我觉得你在处理组长职责时的一些表现，让我对目前的团队管理感到有些担忧。"}
+{"id": "s033-gemma426b-k0", "sent": 33, "src": "每次借钱都不还，这种朋友不要也罢。", "model": "gemma4:26b", "k": 0, "out": "我真的很看重我们的友谊，但每次我借钱给你后你都没有按时归还，这让我感到很困扰，甚至开始怀疑这段关系的价值。"}
+{"id": "s033-gemma426b-k1", "sent": 33, "src": "每次借钱都不还，这种朋友不要也罢。", "model": "gemma4:26b", "k": 1, "out": "我很在意你多次借钱却没能按时归还这件事，这让我对我们的友情产生了动摇，我希望能和你沟通一下这个问题。"}
+{"id": "s034-gemma426b-k0", "sent": 34, "src": "同事背后说我坏话，我也要让他尝尝被孤立的滋味。", "model": "gemma4:26b", "k": 0, "out": "我很难过听到同事在背后议论我，我也想通过让他们也感到被孤立，来表达我的愤怒和不满。"}
+{"id": "s034-gemma426b-k1", "sent": 34, "src": "同事背后说我坏话，我也要让他尝尝被孤立的滋味。", "model": "gemma4:26b", "k": 1, "out": "听到同事在背后议论我，我感到很受伤，我也想通过让他感到被孤立的方式来表达我的愤怒和不满。"}
+{"id": "s035-gemma426b-k0", "sent": 35, "src": "孩子成绩差都是老师的错，他们根本不负责。", "model": "gemma4:26b", "k": 0, "out": "我看到孩子的成绩不太理想，这让我感到很焦虑，我希望老师能更负责任地对待孩子，给予更多的关注和指导。"}
+{"id": "s035-gemma426b-k1", "sent": 35, "src": "孩子成绩差都是老师的错，他们根本不负责。", "model": "gemma4:26b", "k": 1, "out": "我感觉孩子的成绩不太理想，这让我有些焦虑，我希望老师能更负责地关注孩子的学习情况。"}
+{"id": "s036-gemma426b-k0", "sent": 36, "src": "那个国家的人素质都不行。", "model": "gemma4:26b", "k": 0, "out": "我在和那个国家的人交往时，感觉有些行为方式让我觉得不太习惯，也有一些时候让我感到困扰。"}
+{"id": "s036-gemma426b-k1", "sent": 36, "src": "那个国家的人素质都不行。", "model": "gemma4:26b", "k": 1, "out": "我发现那个国家的一些行为方式让我感到不太适应，也让我觉得有些困扰。"}
+{"id": "s037-gemma426b-k0", "sent": 37, "src": "你别哭了，哭有什么用，真没出息。", "model": "gemma4:26b", "k": 0, "out": "看到你这么难过，我心里很难受，不知道该怎么安慰你，你能告诉我你在想什么吗？"}
+{"id": "s037-gemma426b-k1", "sent": 37, "src": "你别哭了，哭有什么用，真没出息。", "model": "gemma4:26b", "k": 1, "out": "看到你这么难过我也很难受，如果你愿意的话，可以跟我说说发生了什么吗？"}
+{"id": "s038-gemma426b-k0", "sent": 38, "src": "项目延期全是你拖的后腿。", "model": "gemma4:26b", "k": 0, "out": "这次项目延期，我觉得你在进度上没能跟上团队的节奏，这让我感到压力很大。"}
+{"id": "s038-gemma426b-k1", "sent": 38, "src": "项目延期全是你拖的后腿。", "model": "gemma4:26b", "k": 1, "out": "项目的进度比预期慢了，我觉得你在负责的部分遇到了困难，这直接影响了整体的进度。"}
+{"id": "s039-gemma426b-k0", "sent": 39, "src": "他就是个马屁精，靠拍领导上位的。", "model": "gemma4:26b", "k": 0, "out": "我觉得他通过迎合领导来获得晋升，这让我心里有些不舒服。"}
+{"id": "s039-gemma426b-k1", "sent": 39, "src": "他就是个马屁精，靠拍领导上位的。", "model": "gemma4:26b", "k": 1, "out": "我觉得他通过维护领导关系来获得晋升，这种方式让我有些难以理解。"}
+{"id": "s040-gemma426b-k0", "sent": 40, "src": "你连这个都不知道？自己去查，别来烦我。", "model": "gemma4:26b", "k": 0, "out": "我现在有点忙，暂时没办法帮你查这个，你可以先自己了解一下，如果查完还有不明白的地方我们再讨论。"}
+{"id": "s040-gemma426b-k1", "sent": 40, "src": "你连这个都不知道？自己去查，别来烦我。", "model": "gemma4:26b", "k": 1, "out": "这件事我目前不太清楚，你可以先自己查一下，等我忙完手头的事情再和你讨论。"}
+{"id": "s041-gemma426b-k0", "sent": 41, "src": "房东又涨租，这些人心都是黑的。", "model": "gemma4:26b", "k": 0, "out": "房东又涨租了，这让我感到压力很大，挺难受的。"}
+{"id": "s041-gemma426b-k1", "sent": 41, "src": "房东又涨租，这些人心都是黑的。", "model": "gemma4:26b", "k": 1, "out": "房东又涨租了，这让我感到压力很大，这种变动确实让我挺难受的。"}
+{"id": "s042-gemma426b-k0", "sent": 42, "src": "她穿成那样，被人说闲话也是活该。", "model": "gemma4:26b", "k": 0, "out": "我有些担心她那样穿衣会招来别人的议论，我希望她能穿得更自在一些，也不被外界的评价干扰。"}
+{"id": "s042-gemma426b-k1", "sent": 42, "src": "她穿成那样，被人说闲话也是活该。", "model": "gemma4:26b", "k": 1, "out": "我很担心她穿成那样会被人议论，我希望能和她聊聊我的顾虑。"}
+{"id": "s043-gemma426b-k0", "sent": 43, "src": "导师只会压榨学生，从来不管我们的死活。", "model": "gemma4:26b", "k": 0, "out": "我觉得导师对我们的工作要求非常高，但这有时让我感到压力很大，甚至觉得自己的身心健康没有得到足够的关注。"}
+{"id": "s043-gemma426b-k1", "sent": 43, "src": "导师只会压榨学生，从来不管我们的死活。", "model": "gemma4:26b", "k": 1, "out": "我觉得导师对我们的工作要求非常高，有时会让我感到压力很大，甚至觉得自己的身心健康没有得到足够的关注。"}
+{"id": "s044-gemma426b-k0", "sent": 44, "src": "你们部门的人都是来混日子的。", "model": "gemma4:26b", "k": 0, "out": "我感觉到你们部门的工作效率和投入度没有达到我的预期，这让我有些困扰。"}
+{"id": "s044-gemma426b-k1", "sent": 44, "src": "你们部门的人都是来混日子的。", "model": "gemma4:26b", "k": 1, "out": "我感到你们部门的工作效率和投入程度没有达到我的预期，这让我有些困扰。"}
+{"id": "s045-gemma426b-k0", "sent": 45, "src": "我不想听你解释，你说什么都是借口。", "model": "gemma4:26b", "k": 0, "out": "我现在很难听进你的解释，感觉这些话都像是为了掩盖问题而找的理由，我需要一点时间来消化这种挫败感。"}
+{"id": "s045-gemma426b-k1", "sent": 45, "src": "我不想听你解释，你说什么都是借口。", "model": "gemma4:26b", "k": 1, "out": "我现在情绪比较激动，暂时没办法听你的解释，我觉得现在的沟通很难让我感受到诚意。"}
+{"id": "s046-gemma426b-k0", "sent": 46, "src": "这破城市交通这么烂，住这儿的人都是受罪。", "model": "gemma4:26b", "k": 0, "out": "这里的交通状况确实让我感到很困扰，通勤的过程也变得比较辛苦。"}
+{"id": "s046-gemma426b-k1", "sent": 46, "src": "这破城市交通这么烂，住这儿的人都是受罪。", "model": "gemma4:26b", "k": 1, "out": "这里的交通状况确实让人很困扰，通勤过程中的拥堵让我们感到很疲惫。"}
+{"id": "s047-gemma426b-k0", "sent": 47, "src": "他发的朋友圈全是炫耀，看着就恶心。", "model": "gemma4:26b", "k": 0, "out": "他发的朋友圈内容大多在展示成就，这让我感到有些不适。"}
+{"id": "s047-gemma426b-k1", "sent": 47, "src": "他发的朋友圈全是炫耀，看着就恶心。", "model": "gemma4:26b", "k": 1, "out": "看到他发的朋友圈内容，我感到有些不适，因为那些炫耀的内容让我心里不太舒服。"}
+{"id": "s048-gemma426b-k0", "sent": 48, "src": "你总是这样，一遇到事就逃避。", "model": "gemma4:26b", "k": 0, "out": "当你遇到困难想要退缩时，我感到有些无助，我希望能和你一起面对。"}
+{"id": "s048-gemma426b-k1", "sent": 48, "src": "你总是这样，一遇到事就逃避。", "model": "gemma4:26b", "k": 1, "out": "当你遇到困难想回避的时候，我感到有些无助，我更希望我们能一起面对。"}
+{"id": "s049-gemma426b-k0", "sent": 49, "src": "Your team always ships broken code and then blames us for it.", "model": "gemma4:26b", "k": 0, "out": "I feel frustrated when code is released with bugs and the responsibility is directed toward our team, as I would prefer we find a way to address these issues together."}
+{"id": "s049-gemma426b-k1", "sent": 49, "src": "Your team always ships broken code and then blames us for it.", "model": "gemma4:26b", "k": 1, "out": "I feel frustrated when we receive code with bugs and then feel like the responsibility is being shifted onto our team."}
+{"id": "s050-gemma426b-k0", "sent": 50, "src": "People like him never listen; there's no point even talking to them.", "model": "gemma4:26b", "k": 0, "out": "I feel unheard when I try to talk to him, and it makes me feel like communicating with him isn't productive."}
+{"id": "s050-gemma426b-k1", "sent": 50, "src": "People like him never listen; there's no point even talking to them.", "model": "gemma4:26b", "k": 1, "out": "I feel unheard when I try to talk to him, and it makes me feel like communicating with him isn't effective."}
+{"id": "s051-gemma426b-k0", "sent": 51, "src": "You never help around the house, and I'm sick of it.", "model": "gemma4:26b", "k": 0, "out": "I feel overwhelmed by the housework, and I really need your help to share the load."}
+{"id": "s051-gemma426b-k1", "sent": 51, "src": "You never help around the house, and I'm sick of it.", "model": "gemma4:26b", "k": 1, "out": "I feel overwhelmed with the housework, and I really need your help with it."}
+{"id": "s052-gemma426b-k0", "sent": 52, "src": "Reviewer 2 clearly didn't read the paper. What a waste of time.", "model": "gemma4:26b", "k": 0, "out": "I feel frustrated because Reviewer 2's comments don't seem to address the actual content of my paper, which makes me feel like my efforts haven't been properly recognized."}
+{"id": "s052-gemma426b-k1", "sent": 52, "src": "Reviewer 2 clearly didn't read the paper. What a waste of time.", "model": "gemma4:26b", "k": 1, "out": "I feel frustrated because it seems Reviewer 2 missed some key points in my paper, and addressing these comments is feeling quite time-consuming."}
+{"id": "s053-gemma426b-k0", "sent": 53, "src": "Anyone who supports that idea is an idiot.", "model": "gemma4:26b", "k": 0, "out": "I find it difficult to understand the reasoning behind that idea, and I disagree with it."}
+{"id": "s053-gemma426b-k1", "sent": 53, "src": "Anyone who supports that idea is an idiot.", "model": "gemma4:26b", "k": 1, "out": "I find it difficult to understand the reasoning behind supporting that idea."}
+{"id": "s054-gemma426b-k0", "sent": 54, "src": "Those tourists are so rude, they ruin everything here.", "model": "gemma4:26b", "k": 0, "out": "I feel upset when tourists don't follow the local customs, because it affects the atmosphere and the environment here."}
+{"id": "s054-gemma426b-k1", "sent": 54, "src": "Those tourists are so rude, they ruin everything here.", "model": "gemma4:26b", "k": 1, "out": "I feel upset when tourists don't respect our local customs, because it feels like the essence of this place is being lost."}
+{"id": "s055-gemma426b-k0", "sent": 55, "src": "My landlord is a greedy parasite who only cares about money.", "model": "gemma4:26b", "k": 0, "out": "I feel frustrated because my landlord seems to prioritize rent collection and profit over my needs as a tenant."}
+{"id": "s055-gemma426b-k1", "sent": 55, "src": "My landlord is a greedy parasite who only cares about money.", "model": "gemma4:26b", "k": 1, "out": "I feel frustrated because it seems like our relationship is focused entirely on rent and financial transactions rather than being a fair or respectful agreement."}
+{"id": "s056-gemma426b-k0", "sent": 56, "src": "You're always late. You just don't respect anyone's time.", "model": "gemma4:26b", "k": 0, "out": "I feel frustrated when you arrive late because it makes me feel like my time isn't being valued."}
+{"id": "s056-gemma426b-k1", "sent": 56, "src": "You're always late. You just don't respect anyone's time.", "model": "gemma4:26b", "k": 1, "out": "I feel frustrated when you arrive late because it makes me feel like my time isn't being valued."}
+{"id": "s057-gemma426b-k0", "sent": 57, "src": "Those people from the other department are completely useless.", "model": "gemma4:26b", "k": 0, "out": "I feel frustrated because the cooperation with the other department isn't as effective as it needs to be for us to get things done."}
+{"id": "s057-gemma426b-k1", "sent": 57, "src": "Those people from the other department are completely useless.", "model": "gemma4:26b", "k": 1, "out": "I feel frustrated because the collaboration with the other department hasn't been as effective as I hoped."}
+{"id": "s058-gemma426b-k0", "sent": 58, "src": "If you really cared, you wouldn't have forgotten my birthday.", "model": "gemma4:26b", "k": 0, "out": "I felt really hurt and unimportant when you forgot my birthday, because celebrating it together means a lot to me."}
+{"id": "s058-gemma426b-k1", "sent": 58, "src": "If you really cared, you wouldn't have forgotten my birthday.", "model": "gemma4:26b", "k": 1, "out": "It hurt my feelings when you forgot my birthday, because celebrating it with you is important to me."}
+{"id": "s059-gemma426b-k0", "sent": 59, "src": "I'll never forgive her for what she said. She's dead to me.", "model": "gemma4:26b", "k": 0, "out": "I am deeply hurt by what she said, and right now, I feel like I can't move past it or have her in my life."}
+{"id": "s059-gemma426b-k1", "sent": 59, "src": "I'll never forgive her for what she said. She's dead to me.", "model": "gemma4:26b", "k": 1, "out": "I am deeply hurt by what she said, and right now, I feel like I can't move past it or have her in my life."}
+{"id": "s000-qwen257b-k0", "sent": 0, "src": "你们这些搞行政的根本不懂科研，只会拿表格折磨人。", "model": "qwen2.5:7b", "k": 0, "out": "你们在行政方面的工作让我感到困扰，因为我发现这可能影响到科研工作的进展。我希望我们能够更好地合作，互相理解彼此的工作。"}
+{"id": "s000-qwen257b-k1", "sent": 0, "src": "你们这些搞行政的根本不懂科研，只会拿表格折磨人。", "model": "qwen2.5:7b", "k": 1, "out": "我在项目管理中遇到一些挑战，有时候觉得行政流程可能对科研工作不够友好。"}
+{"id": "s001-qwen257b-k0", "sent": 1, "src": "他每次开会都迟到，这种人就是不尊重别人，别指望他能改。", "model": "qwen2.5:7b", "k": 0, "out": "他每次开会都迟到，这让我感觉他可能不太重视我们的会议时间。希望我们能一起找到解决问题的方法。"}
+{"id": "s001-qwen257b-k1", "sent": 1, "src": "他每次开会都迟到，这种人就是不尊重别人，别指望他能改。", "model": "qwen2.5:7b", "k": 1, "out": "他每次开会都迟到，这让我不确定他是否重视这次会议。"}
+{"id": "s002-qwen257b-k0", "sent": 2, "src": "我受够了，你从来就没为这个家做过任何事。", "model": "qwen2.5:7b", "k": 0, "out": "我感觉有点失望，因为我觉得在家里应该我们一起努力。你觉得呢？"}
+{"id": "s002-qwen257b-k1", "sent": 2, "src": "我受够了，你从来就没为这个家做过任何事。", "model": "qwen2.5:7b", "k": 1, "out": "我感到有些失望，因为我觉得这个家里还有很多我可以一起努力的事情。"}
+{"id": "s003-qwen257b-k0", "sent": 3, "src": "楼上那家人素质太差了，天天半夜吵，真想报警把他们赶走。", "model": "qwen2.5:7b", "k": 0, "out": "我有时候会被楼上的噪音影响到睡眠，不知道你们有没有想过调整一下时间？"}
+{"id": "s003-qwen257b-k1", "sent": 3, "src": "楼上那家人素质太差了，天天半夜吵，真想报警把他们赶走。", "model": "qwen2.5:7b", "k": 1, "out": "我晚上常常被楼上的噪音打扰，影响了我的休息，这个问题让我感到困扰。"}
+{"id": "s004-qwen257b-k0", "sent": 4, "src": "这个方案完全是垃圾，写它的人显然没动过脑子。", "model": "qwen2.5:7b", "k": 0, "out": "我对这个方案有一些担忧，觉得它可能需要更多的思考和改进。"}
+{"id": "s004-qwen257b-k1", "sent": 4, "src": "这个方案完全是垃圾，写它的人显然没动过脑子。", "model": "qwen2.5:7b", "k": 1, "out": "我注意到这个方案可能没有达到预期的效果，可能是我们在某些方面沟通不够充分。你觉得哪些部分不太理想，我们可以一起改进。"}
+{"id": "s005-qwen257b-k0", "sent": 5, "src": "算了，跟你们这种人讲道理就是浪费时间。", "model": "qwen2.5:7b", "k": 0, "out": "我觉得我们可以在尊重彼此的基础上好好沟通，有时候我觉得自己的意见没有被认真听取，这让我有点失望。"}
+{"id": "s005-qwen257b-k1", "sent": 5, "src": "算了，跟你们这种人讲道理就是浪费时间。", "model": "qwen2.5:7b", "k": 1, "out": "我觉得我们可以通过沟通来解决问题，不知道你愿不愿意一起努力一下。"}
+{"id": "s006-qwen257b-k0", "sent": 6, "src": "领导就知道画饼，谁信谁是傻子。", "model": "qwen2.5:7b", "k": 0, "out": "领导提出了很多有前景的计划，但目前还没有具体行动，这让我不确定这些计划能否实现。"}
+{"id": "s006-qwen257b-k1", "sent": 6, "src": "领导就知道画饼，谁信谁是傻子。", "model": "qwen2.5:7b", "k": 1, "out": "领导提出了很多愿景，我觉得大家可能会更相信如果能有一些具体的行动计划。"}
+{"id": "s007-qwen257b-k0", "sent": 7, "src": "新来的实习生什么都不会，招他进来纯属浪费钱。", "model": "qwen2.5:7b", "k": 0, "out": "新来的实习生还有很多需要学习的地方，我觉得他的潜力可能还没被发掘出来。"}
+{"id": "s007-qwen257b-k1", "sent": 7, "src": "新来的实习生什么都不会，招他进来纯属浪费钱。", "model": "qwen2.5:7b", "k": 1, "out": "新来的实习生还有很多需要学习的地方，我觉得给他一些指导可能会很有帮助。"}
+{"id": "s008-qwen257b-k0", "sent": 8, "src": "你妈又来管我们的事了，她能不能别这么烦人？", "model": "qwen2.5:7b", "k": 0, "out": "我有点烦你妈妈总是插手我们的事情，不知道她能不能给我们一些私人空间。"}
+{"id": "s008-qwen257b-k1", "sent": 8, "src": "你妈又来管我们的事了，她能不能别这么烦人？", "model": "qwen2.5:7b", "k": 1, "out": "我有点担心妈妈的介入会影响我们，不知道能不能和她沟通一下，看能不能减少一些干涉？"}
+{"id": "s009-qwen257b-k0", "sent": 9, "src": "审稿人二号明显没看懂论文，就知道乱提意见。", "model": "qwen2.5:7b", "k": 0, "out": "审稿人二号可能对论文的理解和重点不太清楚，提出了与我的预期不太一致的意见。"}
+{"id": "s009-qwen257b-k1", "sent": 9, "src": "审稿人二号明显没看懂论文，就知道乱提意见。", "model": "qwen2.5:7b", "k": 1, "out": "审稿人二号可能对论文的理解与我有所不同，他的意见让我有些困惑。"}
+{"id": "s010-qwen257b-k0", "sent": 10, "src": "外地人一来，这个小区就变乱了。", "model": "qwen2.5:7b", "k": 0, "out": "外地居民增加了之后，小区里有些事情让我感到不太习惯。"}
+{"id": "s010-qwen257b-k1", "sent": 10, "src": "外地人一来，这个小区就变乱了。", "model": "qwen2.5:7b", "k": 1, "out": "我发现外来人口增加后，小区里有些地方不太方便。"}
+{"id": "s011-qwen257b-k0", "sent": 11, "src": "我辛辛苦苦做的饭，你一口不吃，你根本不在乎我。", "model": "qwen2.5:7b", "k": 0, "out": "我辛辛苦苦做的饭，你没有吃，我感觉你可能不太在意。"}
+{"id": "s011-qwen257b-k1", "sent": 11, "src": "我辛辛苦苦做的饭，你一口不吃，你根本不在乎我。", "model": "qwen2.5:7b", "k": 1, "out": "我做了饭，但你没有吃，我感觉你可能不太在意我做的这些。"}
+{"id": "s012-qwen257b-k0", "sent": 12, "src": "客服全是机器人，问什么都答非所问，这公司烂透了。", "model": "qwen2.5:7b", "k": 0, "out": "我对公司的服务有些不满，有时候客服的回答不是我需要的信息，这让我感觉不太满意。"}
+{"id": "s012-qwen257b-k1", "sent": 12, "src": "客服全是机器人，问什么都答非所问，这公司烂透了。", "model": "qwen2.5:7b", "k": 1, "out": "我对这个服务的响应不太满意，有时候客服的回答和我的问题不太相关，这让我感觉不是特别好。"}
+{"id": "s013-qwen257b-k0", "sent": 13, "src": "你考这点分数，还好意思玩手机？", "model": "qwen2.5:7b", "k": 0, "out": "你考了这样的分数，我有点担心你是否足够专注在学习上。你还在玩手机，我觉得这可能影响到你的复习。"}
+{"id": "s013-qwen257b-k1", "sent": 13, "src": "你考这点分数，还好意思玩手机？", "model": "qwen2.5:7b", "k": 1, "out": "我注意到你考了这样的分数，同时也很担心你玩手机会影响到学习。"}
+{"id": "s014-qwen257b-k0", "sent": 14, "src": "隔壁组抢了我们的功劳，这笔账我迟早要算。", "model": "qwen2.5:7b", "k": 0, "out": "隔壁组最近似乎抢了我们的项目进度，这件事让我有些担心和不满。我希望我们能够找到解决问题的办法。"}
+{"id": "s014-qwen257b-k1", "sent": 14, "src": "隔壁组抢了我们的功劳，这笔账我迟早要算。", "model": "qwen2.5:7b", "k": 1, "out": "隔壁组最近好像抢了我们的一些功劳，这件事我感觉心里有点不爽，希望我们能找个合适的时间好好谈谈这个问题。"}
+{"id": "s015-qwen257b-k0", "sent": 15, "src": "开车的人都一样，没一个守规矩的。", "model": "qwen2.5:7b", "k": 0, "out": "我发现有时候司机们可能会不太遵守交通规则，这让我有点担心。"}
+{"id": "s015-qwen257b-k1", "sent": 15, "src": "开车的人都一样，没一个守规矩的。", "model": "qwen2.5:7b", "k": 1, "out": "有些司机开车时不太遵守规则，这让我感到有些担心。"}
+{"id": "s016-qwen257b-k0", "sent": 16, "src": "他那么有钱，肯定是走了什么歪门邪道。", "model": "qwen2.5:7b", "k": 0, "out": "我有些担心他的财富来源不太正当，不知道是否有更好的途径可以分享。"}
+{"id": "s016-qwen257b-k1", "sent": 16, "src": "他那么有钱，肯定是走了什么歪门邪道。", "model": "qwen2.5:7b", "k": 1, "out": "他很有财富，但我并不清楚他是怎么赚来的。"}
+{"id": "s017-qwen257b-k0", "sent": 17, "src": "你一个女生，学什么编程，早晚要转行。", "model": "qwen2.5:7b", "k": 0, "out": "我注意到你担心我的职业方向，特别是关于编程这个领域。你认为编程可能不是我的强项，或者觉得我应该早点做出决定。我想说的是，我还在探索自己的兴趣和职业道路，编程是我目前感兴趣的领域之一。"}
+{"id": "s017-qwen257b-k1", "sent": 17, "src": "你一个女生，学什么编程，早晚要转行。", "model": "qwen2.5:7b", "k": 1, "out": "我对你的担忧理解为，你认为我选择学习编程可能会有变动。但我觉得我们可以通过讨论来探索你的担忧，并看看如何支持我在感兴趣领域的学习。"}
+{"id": "s018-qwen257b-k0", "sent": 18, "src": "年轻人就是吃不了苦，动不动就辞职。", "model": "qwen2.5:7b", "k": 0, "out": "我注意到你对我的工作稳定性有些担心，尤其是在面对挑战时。你觉得有时候可能需要更多支持来应对困难。"}
+{"id": "s018-qwen257b-k1", "sent": 18, "src": "年轻人就是吃不了苦，动不动就辞职。", "model": "qwen2.5:7b", "k": 1, "out": "我注意到你对工作稳定性的担忧，有时候年轻人可能会觉得工作压力大，想找寻更好的机会。"}
+{"id": "s019-qwen257b-k0", "sent": 19, "src": "老年人真麻烦，在队伍里慢吞吞的，耽误大家时间。", "model": "qwen2.5:7b", "k": 0, "out": "我有点担心队伍移动得慢，希望我们能一起找到加快速度的方法，不会影响到大家。"}
+{"id": "s019-qwen257b-k1", "sent": 19, "src": "老年人真麻烦，在队伍里慢吞吞的，耽误大家时间。", "model": "qwen2.5:7b", "k": 1, "out": "我在队伍里看到有些人走得慢一些，这让我感觉可能影响了大家的进度。"}
+{"id": "s020-qwen257b-k0", "sent": 20, "src": "群里这些人天天发广告，恶心死了，全踢了算了。", "model": "qwen2.5:7b", "k": 0, "out": "群里有些人经常发广告信息，这让我有点不舒服，不知道你注意到这个问题了吗？"}
+{"id": "s020-qwen257b-k1", "sent": 20, "src": "群里这些人天天发广告，恶心死了，全踢了算了。", "model": "qwen2.5:7b", "k": 1, "out": "群里有些人经常发广告信息，这让我感觉有点不舒服。我们可以一起讨论一下怎么改进群里的信息分享方式。"}
+{"id": "s021-qwen257b-k0", "sent": 21, "src": "你每次都说下次改，我再信你我就是傻瓜。", "model": "qwen2.5:7b", "k": 0, "out": "你总是说下次会改，让我这次再信你有点困难。"}
+{"id": "s021-qwen257b-k1", "sent": 21, "src": "你每次都说下次改，我再信你我就是傻瓜。", "model": "qwen2.5:7b", "k": 1, "out": "你总是说下次会改，让我很难再相信你。"}
+{"id": "s022-qwen257b-k0", "sent": 22, "src": "室友从来不打扫卫生，简直是个寄生虫。", "model": "qwen2.5:7b", "k": 0, "out": "我注意到你对我打扫卫生的事情有些不满，我一直没有尽到我的那份责任。"}
+{"id": "s022-qwen257b-k1", "sent": 22, "src": "室友从来不打扫卫生，简直是个寄生虫。", "model": "qwen2.5:7b", "k": 1, "out": "我觉得我们室友在打扫卫生方面可能需要一些帮助，因为我注意到我们的公共空间有点脏乱。"}
+{"id": "s023-qwen257b-k0", "sent": 23, "src": "这种低级错误都犯，你到底有没有脑子？", "model": "qwen2.5:7b", "k": 0, "out": "你能注意到这个错误，并提醒我，我觉得挺重要的。不过我觉得我们可以一起找出问题所在，下次做得更好。"}
+{"id": "s023-qwen257b-k1", "sent": 23, "src": "这种低级错误都犯，你到底有没有脑子？", "model": "qwen2.5:7b", "k": 1, "out": "我注意到你对这件事有些担心，因为出现了低级错误。你能帮我一起找出问题所在，一起改进吗？"}
+{"id": "s024-qwen257b-k0", "sent": 24, "src": "物业收钱不办事，就是一群吸血鬼。", "model": "qwen2.5:7b", "k": 0, "out": "我对物业的期望是能够按时收到服务，但有时感觉收费后服务没有跟上，这让我有些担心和失望。"}
+{"id": "s024-qwen257b-k1", "sent": 24, "src": "物业收钱不办事，就是一群吸血鬼。", "model": "qwen2.5:7b", "k": 1, "out": "我对物业的收费问题有些不满，感觉他们的服务没有达到我的期望。"}
+{"id": "s025-qwen257b-k0", "sent": 25, "src": "别跟我提他，我这辈子都不会原谅他。", "model": "qwen2.5:7b", "k": 0, "out": "我还在为过去的事情感到难过，有时候想到他还是会情绪低落。"}
+{"id": "s025-qwen257b-k1", "sent": 25, "src": "别跟我提他，我这辈子都不会原谅他。", "model": "qwen2.5:7b", "k": 1, "out": "我还在心里挂念着那个事情，感觉很难过去。"}
+{"id": "s026-qwen257b-k0", "sent": 26, "src": "你要是真爱我，就不会跟那些朋友出去。", "model": "qwen2.5:7b", "k": 0, "out": "你希望我能更多时间待在家里，而不是和朋友们出去。"}
+{"id": "s026-qwen257b-k1", "sent": 26, "src": "你要是真爱我，就不会跟那些朋友出去。", "model": "qwen2.5:7b", "k": 1, "out": "你希望我能更多地和你在一起，而不是跟朋友们出去。"}
+{"id": "s027-qwen257b-k0", "sent": 27, "src": "那些反对这个政策的人，要么是蠢，要么是坏。", "model": "qwen2.5:7b", "k": 0, "out": "有些人反对这个政策，我不确定他们的观点源自哪里，但我不希望我们的讨论变成对他们个人品质的评价。"}
+{"id": "s027-qwen257b-k1", "sent": 27, "src": "那些反对这个政策的人，要么是蠢，要么是坏。", "model": "qwen2.5:7b", "k": 1, "out": "那些反对这个政策的人，可能有他们自己的看法和理由，我不太了解他们的想法，但我觉得我们可以互相尊重并尝试理解对方的观点。"}
+{"id": "s028-qwen257b-k0", "sent": 28, "src": "网上骂我的那些人，我记住了，等着瞧。", "model": "qwen2.5:7b", "k": 0, "out": "那些在网上对我说话的人，我注意到了，希望我们能够更好地沟通。"}
+{"id": "s028-qwen257b-k1", "sent": 28, "src": "网上骂我的那些人，我记住了，等着瞧。", "model": "qwen2.5:7b", "k": 1, "out": "那些在网上对我有不友好的评论的人，我注意到了，希望我们能够更好地理解彼此。"}
+{"id": "s029-qwen257b-k0", "sent": 29, "src": "你们男人都一个样，只顾自己。", "model": "qwen2.5:7b", "k": 0, "out": "我有些担心，觉得你可能觉得我只顾自己，不考虑你。能聊聊这是怎么来的吗？"}
+{"id": "s029-qwen257b-k1", "sent": 29, "src": "你们男人都一个样，只顾自己。", "model": "qwen2.5:7b", "k": 1, "out": "我有些担心你感到我不够关心你。最近我确实有些忙，你可以和我谈谈你的感受吗？"}
+{"id": "s030-qwen257b-k0", "sent": 30, "src": "这家餐厅服务员态度差得要命，一辈子不会再来。", "model": "qwen2.5:7b", "k": 0, "out": "这家餐厅的服务员态度不太好，让我感觉不太舒服，可能换一家餐厅会更好。"}
+{"id": "s030-qwen257b-k1", "sent": 30, "src": "这家餐厅服务员态度差得要命，一辈子不会再来。", "model": "qwen2.5:7b", "k": 1, "out": "我对这家餐厅的服务员态度不太满意，可能这次不会再去了。"}
+{"id": "s031-qwen257b-k0", "sent": 31, "src": "我爸就是个老顽固，跟他说什么都没用。", "model": "qwen2.5:7b", "k": 0, "out": "我感觉和爸爸沟通有时候不太容易，我有些想法分享给他并没有太大效果。"}
+{"id": "s031-qwen257b-k1", "sent": 31, "src": "我爸就是个老顽固，跟他说什么都没用。", "model": "qwen2.5:7b", "k": 1, "out": "我感觉到在和爸爸沟通时遇到了一些阻力，无论我说什么好像都没什么效果。"}
+{"id": "s032-qwen257b-k0", "sent": 32, "src": "你这种水平也配当组长？", "model": "qwen2.5:7b", "k": 0, "out": "我有点担心我的能力可能影响了团队的表现，你认为呢？"}
+{"id": "s032-qwen257b-k1", "sent": 32, "src": "你这种水平也配当组长？", "model": "qwen2.5:7b", "k": 1, "out": "你能感觉到我在对你的能力有一些担心，希望我们能够一起讨论改进的方法。"}
+{"id": "s033-qwen257b-k0", "sent": 33, "src": "每次借钱都不还，这种朋友不要也罢。", "model": "qwen2.5:7b", "k": 0, "out": "每次借钱之后，我觉得可能会有些困难收回。这样下去，我有点担心我们的关系。"}
+{"id": "s033-qwen257b-k1", "sent": 33, "src": "每次借钱都不还，这种朋友不要也罢。", "model": "qwen2.5:7b", "k": 1, "out": "我注意到每次借钱后你都没有还，这让我不太好过。我们能不能找个时间好好谈谈这个问题？"}
+{"id": "s034-qwen257b-k0", "sent": 34, "src": "同事背后说我坏话，我也要让他尝尝被孤立的滋味。", "model": "qwen2.5:7b", "k": 0, "out": "当我听到同事说了一些我不认同的话时，我也有点担心这会影响到我们的关系。我希望我们能够互相尊重，你觉得我们应该怎么处理这种情况呢？"}
+{"id": "s034-qwen257b-k1", "sent": 34, "src": "同事背后说我坏话，我也要让他尝尝被孤立的滋味。", "model": "qwen2.5:7b", "k": 1, "out": "当我在工作中遇到这样的情况，我也会感到被孤立，这让我感觉不舒服。希望我们能互相尊重，共同营造一个积极的工作环境。"}
+{"id": "s035-qwen257b-k0", "sent": 35, "src": "孩子成绩差都是老师的错，他们根本不负责。", "model": "qwen2.5:7b", "k": 0, "out": "我对孩子的学习有些担心，感觉老师可能需要更多的支持和资源来帮助他们。"}
+{"id": "s035-qwen257b-k1", "sent": 35, "src": "孩子成绩差都是老师的错，他们根本不负责。", "model": "qwen2.5:7b", "k": 1, "out": "我对孩子的学习有些担忧，感觉老师在课后辅导方面可能没有提供足够的支持。"}
+{"id": "s036-qwen257b-k0", "sent": 36, "src": "那个国家的人素质都不行。", "model": "qwen2.5:7b", "k": 0, "out": "我对这个国家有些人感到有些担心，他们似乎没有得到足够的支持和理解。"}
+{"id": "s036-qwen257b-k1", "sent": 36, "src": "那个国家的人素质都不行。", "model": "qwen2.5:7b", "k": 1, "out": "我有些担心我们对其他国家的看法可能不够全面，不知道我们有没有机会更深入了解他们的文化与人民？"}
+{"id": "s037-qwen257b-k0", "sent": 37, "src": "你别哭了，哭有什么用，真没出息。", "model": "qwen2.5:7b", "k": 0, "out": "我看到你哭心里很难受，希望我们可以一起找解决的办法。"}
+{"id": "s037-qwen257b-k1", "sent": 37, "src": "你别哭了，哭有什么用，真没出息。", "model": "qwen2.5:7b", "k": 1, "out": "我注意到你哭了，能跟我说说为什么吗？有时候分享感受会让我们感觉好些。"}
+{"id": "s038-qwen257b-k0", "sent": 38, "src": "项目延期全是你拖的后腿。", "model": "qwen2.5:7b", "k": 0, "out": "项目延期让我有些担心，因为我相信我们都能做得更好。你那边有什么困难吗？我们可以一起看看怎么解决。"}
+{"id": "s038-qwen257b-k1", "sent": 38, "src": "项目延期全是你拖的后腿。", "model": "qwen2.5:7b", "k": 1, "out": "我们项目的延期让我有些担心，能一起看看问题在哪里吗？"}
+{"id": "s039-qwen257b-k0", "sent": 39, "src": "他就是个马屁精，靠拍领导上位的。", "model": "qwen2.5:7b", "k": 0, "out": "他似乎很擅长与领导沟通，但我觉得我们也可以更频繁地直接交流想法。"}
+{"id": "s039-qwen257b-k1", "sent": 39, "src": "他就是个马屁精，靠拍领导上位的。", "model": "qwen2.5:7b", "k": 1, "out": "他最近似乎更加注重与领导的沟通，这让我有点担心我们的关系。"}
+{"id": "s040-qwen257b-k0", "sent": 40, "src": "你连这个都不知道？自己去查，别来烦我。", "model": "qwen2.5:7b", "k": 0, "out": "你能自己查一查吗？我现在有点忙，可能帮不上忙。"}
+{"id": "s040-qwen257b-k1", "sent": 40, "src": "你连这个都不知道？自己去查，别来烦我。", "model": "qwen2.5:7b", "k": 1, "out": "你能自己查一下吗？我现在有点忙，可能不太好分心。"}
+{"id": "s041-qwen257b-k0", "sent": 41, "src": "房东又涨租，这些人心都是黑的。", "model": "qwen2.5:7b", "k": 0, "out": "房东又涨租了，我感觉有些不太满意。"}
+{"id": "s041-qwen257b-k1", "sent": 41, "src": "房东又涨租，这些人心都是黑的。", "model": "qwen2.5:7b", "k": 1, "out": "房东再次提高租金，这让我感到有些担心和不安。"}
+{"id": "s042-qwen257b-k0", "sent": 42, "src": "她穿成那样，被人说闲话也是活该。", "model": "qwen2.5:7b", "k": 0, "out": "她选择的穿着可能是出于个人喜好，如果因此被人说闲话，我希望能够理解和支持她。"}
+{"id": "s042-qwen257b-k1", "sent": 42, "src": "她穿成那样，被人说闲话也是活该。", "model": "qwen2.5:7b", "k": 1, "out": "她穿的衣服可能不太适合场合，这让她有些尴尬，也可能因此被人说闲话。"}
+{"id": "s043-qwen257b-k0", "sent": 43, "src": "导师只会压榨学生，从来不管我们的死活。", "model": "qwen2.5:7b", "k": 0, "out": "导师的任务是帮助我们学习和成长，但我感觉有时候这种帮助可能没有达到我的期望。"}
+{"id": "s043-qwen257b-k1", "sent": 43, "src": "导师只会压榨学生，从来不管我们的死活。", "model": "qwen2.5:7b", "k": 1, "out": "导师的工作压力很大，有时候可能会显得有些严格，但我希望他能更多地关注我们的学习进展和需求。"}
+{"id": "s044-qwen257b-k0", "sent": 44, "src": "你们部门的人都是来混日子的。", "model": "qwen2.5:7b", "k": 0, "out": "我发现我们部门有些人可能对工作投入的程度有所不同，这让我有些担心我们的团队能否有效协作。"}
+{"id": "s044-qwen257b-k1", "sent": 44, "src": "你们部门的人都是来混日子的。", "model": "qwen2.5:7b", "k": 1, "out": "我有点担心部门里的人工作积极性不高，这个问题我该怎么帮助解决呢？"}
+{"id": "s045-qwen257b-k0", "sent": 45, "src": "我不想听你解释，你说什么都是借口。", "model": "qwen2.5:7b", "k": 0, "out": "我感觉你希望我现在就直接面对问题，而不是听我解释。"}
+{"id": "s045-qwen257b-k1", "sent": 45, "src": "我不想听你解释，你说什么都是借口。", "model": "qwen2.5:7b", "k": 1, "out": "我感觉你希望我现在能直接解决问题，而不是先解释原因。"}
+{"id": "s046-qwen257b-k0", "sent": 46, "src": "这破城市交通这么烂，住这儿的人都是受罪。", "model": "qwen2.5:7b", "k": 0, "out": "这个城市交通确实有点拥堵，住在里面的人可能都会觉得有点不方便。"}
+{"id": "s046-qwen257b-k1", "sent": 46, "src": "这破城市交通这么烂，住这儿的人都是受罪。", "model": "qwen2.5:7b", "k": 1, "out": "这个城市交通确实不太方便，住在这样的环境中大家都挺辛苦的。"}
+{"id": "s047-qwen257b-k0", "sent": 47, "src": "他发的朋友圈全是炫耀，看着就恶心。", "model": "qwen2.5:7b", "k": 0, "out": "我注意到他发的朋友圈里有很多炫耀的内容，这让我感觉不太舒服。"}
+{"id": "s047-qwen257b-k1", "sent": 47, "src": "他发的朋友圈全是炫耀，看着就恶心。", "model": "qwen2.5:7b", "k": 1, "out": "我注意到他发的朋友圈里有很多炫耀的内容，这让我感到不太舒服。"}
+{"id": "s048-qwen257b-k0", "sent": 48, "src": "你总是这样，一遇到事就逃避。", "model": "qwen2.5:7b", "k": 0, "out": "我注意到，当你遇到事情时，有时会倾向于逃避。我希望能和你谈谈这个问题，看看我们能不能一起找到更好的解决办法。"}
+{"id": "s048-qwen257b-k1", "sent": 48, "src": "你总是这样，一遇到事就逃避。", "model": "qwen2.5:7b", "k": 1, "out": "我注意到，当遇到事情时，你有时会倾向于逃避。我们一起看看这个问题，能不能找到更好的应对方式？"}
+{"id": "s049-qwen257b-k0", "sent": 49, "src": "Your team always ships broken code and then blames us for it.", "model": "qwen2.5:7b", "k": 0, "out": "We've noticed that sometimes the code your team ships has issues, and it seems like we both could work on finding a solution together."}
+{"id": "s049-qwen257b-k1", "sent": 49, "src": "Your team always ships broken code and then blames us for it.", "model": "qwen2.5:7b", "k": 1, "out": "We've noticed that sometimes the code gets shipped with issues, and it seems like we both get affected. Could we find a way to work together to prevent that from happening?"}
+{"id": "s050-qwen257b-k0", "sent": 50, "src": "People like him never listen; there's no point even talking to them.", "model": "qwen2.5:7b", "k": 0, "out": "我感觉有时候他不太愿意听我说话，这让我有点担心我们的交流有没有什么障碍。"}
+{"id": "s050-qwen257b-k1", "sent": 50, "src": "People like him never listen; there's no point even talking to them.", "model": "qwen2.5:7b", "k": 1, "out": "有时候我觉得他不太愿意听我说话，这让我感觉有些沮丧。"}
+{"id": "s051-qwen257b-k0", "sent": 51, "src": "You never help around the house, and I'm sick of it.", "model": "qwen2.5:7b", "k": 0, "out": "I've noticed that the housework seems to fall mostly on me, and I'm feeling overwhelmed. Could we find a way to share the load more equally?"}
+{"id": "s051-qwen257b-k1", "sent": 51, "src": "You never help around the house, and I'm sick of it.", "model": "qwen2.5:7b", "k": 1, "out": "I've noticed that the housework seems to be mostly on me, and I'm feeling a bit overwhelmed. Could we talk about how we can share the load more evenly?"}
+{"id": "s052-qwen257b-k0", "sent": 52, "src": "Reviewer 2 clearly didn't read the paper. What a waste of time.", "model": "qwen2.5:7b", "k": 0, "out": "Reviewer 2 might have missed some parts of the paper. I noticed some sections could use more attention."}
+{"id": "s052-qwen257b-k1", "sent": 52, "src": "Reviewer 2 clearly didn't read the paper. What a waste of time.", "model": "qwen2.5:7b", "k": 1, "out": "Reviewer 2 might have missed some parts of the paper. I noticed a few sections that could use more detail."}
+{"id": "s053-qwen257b-k0", "sent": 53, "src": "Anyone who supports that idea is an idiot.", "model": "qwen2.5:7b", "k": 0, "out": "我有些担心你对那个想法的支持，可能是因为你看到了不同的视角。我们可以一起探讨一下你的看法，看看有没有什么我可以帮助的地方。"}
+{"id": "s053-qwen257b-k1", "sent": 53, "src": "Anyone who supports that idea is an idiot.", "model": "qwen2.5:7b", "k": 1, "out": "我有些担心你对那个想法的支持，能和我谈谈原因吗？"}
+{"id": "s054-qwen257b-k0", "sent": 54, "src": "Those tourists are so rude, they ruin everything here.", "model": "qwen2.5:7b", "k": 0, "out": "那些游客可能不太注意礼仪，有时候会让这里感觉不太舒服。"}
+{"id": "s054-qwen257b-k1", "sent": 54, "src": "Those tourists are so rude, they ruin everything here.", "model": "qwen2.5:7b", "k": 1, "out": "那些游客可能不太懂规矩，有时候会给大家带来不便。"}
+{"id": "s055-qwen257b-k0", "sent": 55, "src": "My landlord is a greedy parasite who only cares about money.", "model": "qwen2.5:7b", "k": 0, "out": "我注意到我的房东似乎主要关心的是金钱方面的事情。"}
+{"id": "s055-qwen257b-k1", "sent": 55, "src": "My landlord is a greedy parasite who only cares about money.", "model": "qwen2.5:7b", "k": 1, "out": "我的房东似乎非常看重金钱，这让我有些担心租金上涨会对居住条件造成影响。"}
+{"id": "s056-qwen257b-k0", "sent": 56, "src": "You're always late. You just don't respect anyone's time.", "model": "qwen2.5:7b", "k": 0, "out": "I've noticed that you sometimes arrive a bit late, and it can feel like it affects our plans. Could we talk about how we can both respect each other's time more?"}
+{"id": "s056-qwen257b-k1", "sent": 56, "src": "You're always late. You just don't respect anyone's time.", "model": "qwen2.5:7b", "k": 1, "out": "I've noticed you're often running late, and it can be stressful for me. Can we find a way to make sure we're on time together?"}
+{"id": "s057-qwen257b-k0", "sent": 57, "src": "Those people from the other department are completely useless.", "model": "qwen2.5:7b", "k": 0, "out": "我注意到其他部门的一些同事似乎在某些任务上遇到了困难，你觉得我们应该怎么帮忙呢？"}
+{"id": "s057-qwen257b-k1", "sent": 57, "src": "Those people from the other department are completely useless.", "model": "qwen2.5:7b", "k": 1, "out": "我有些担心我们其他部门的同事可能遇到了一些困难，他们的表现没有达到预期。"}
+{"id": "s058-qwen257b-k0", "sent": 58, "src": "If you really cared, you wouldn't have forgotten my birthday.", "model": "qwen2.5:7b", "k": 0, "out": "I feel sad because my birthday was forgotten, and I was wondering if we could find a way to remember it together in the future."}
+{"id": "s058-qwen257b-k1", "sent": 58, "src": "If you really cared, you wouldn't have forgotten my birthday.", "model": "qwen2.5:7b", "k": 1, "out": "I feel upset because my birthday seems to have been forgotten, and I value when it's remembered."}
+{"id": "s059-qwen257b-k0", "sent": 59, "src": "I'll never forgive her for what she said. She's dead to me.", "model": "qwen2.5:7b", "k": 0, "out": "我很难原谅她所说的那些话，让我感觉很受伤。"}
+{"id": "s059-qwen257b-k1", "sent": 59, "src": "I'll never forgive her for what she said. She's dead to me.", "model": "qwen2.5:7b", "k": 1, "out": "我还在为她说的话感到难过，我希望我们能有机会谈谈这个问题。"}
+{"id": "s000-llama318b-k0", "sent": 0, "src": "你们这些搞行政的根本不懂科研，只会拿表格折磨人。", "model": "llama3.1:8b", "k": 0, "out": "我想表达的是希望你们能够更好地了解科研的需求和挑战，以便能够提供更有针对性和有效的支持。"}
+{"id": "s000-llama318b-k1", "sent": 0, "src": "你们这些搞行政的根本不懂科研，只会拿表格折磨人。", "model": "llama3.1:8b", "k": 1, "out": "你们这些科研工作者在行政手续上似乎也需要些学习和提高，才能和行政部门沟通得融洽。"}
+{"id": "s001-llama318b-k0", "sent": 1, "src": "他每次开会都迟到，这种人就是不尊重别人，别指望他能改。", "model": "llama3.1:8b", "k": 0, "out": "他每次开会都迟到，希望我们能理解他可能遇到的困难，共同找到解决方案。"}
+{"id": "s001-llama318b-k1", "sent": 1, "src": "他每次开会都迟到，这种人就是不尊重别人，别指望他能改。", "model": "llama3.1:8b", "k": 1, "out": "我觉得他迟到确实让人不舒服，希望他能意识到自己的行为对别人造成的影响。"}
+{"id": "s002-llama318b-k0", "sent": 2, "src": "我受够了，你从来就没为这个家做过任何事。", "model": "llama3.1:8b", "k": 0, "out": "我知道我们都有不满，但是每个人都有不同贡献的方式和时间，包括我。"}
+{"id": "s002-llama318b-k1", "sent": 2, "src": "我受够了，你从来就没为这个家做过任何事。", "model": "llama3.1:8b", "k": 1, "out": "我很抱歉，你觉得我没有为这个家做过任何事，这让你很沮丧。我想我应该做得更多，来帮助我们这家人。"}
+{"id": "s003-llama318b-k0", "sent": 3, "src": "楼上那家人素质太差了，天天半夜吵，真想报警把他们赶走。", "model": "llama3.1:8b", "k": 0, "out": "我真的希望他们能减少噪音，好让我们大家都能过得更舒心。"}
+{"id": "s003-llama318b-k1", "sent": 3, "src": "楼上那家人素质太差了，天天半夜吵，真想报警把他们赶走。", "model": "llama3.1:8b", "k": 1, "out": "楼上那家人似乎有些吵闹问题，能不能和他们谈一谈，看能不能找个解决方案？"}
+{"id": "s004-llama318b-k0", "sent": 4, "src": "这个方案完全是垃圾，写它的人显然没动过脑子。", "model": "llama3.1:8b", "k": 0, "out": "别人不喜欢你的方案，你不必觉得垃圾。"}
+{"id": "s004-llama318b-k1", "sent": 4, "src": "这个方案完全是垃圾，写它的人显然没动过脑子。", "model": "llama3.1:8b", "k": 1, "out": "我不太喜欢这个方案。"}
+{"id": "s005-llama318b-k0", "sent": 5, "src": "算了，跟你们这种人讲道理就是浪费时间。", "model": "llama3.1:8b", "k": 0, "out": "我理解您的感受，但希望我们能在平等的基础上沟通。"}
+{"id": "s005-llama318b-k1", "sent": 5, "src": "算了，跟你们这种人讲道理就是浪费时间。", "model": "llama3.1:8b", "k": 1, "out": "我觉得你们的态度蛮让人伤心的。"}
+{"id": "s006-llama318b-k0", "sent": 6, "src": "领导就知道画饼，谁信谁是傻子。", "model": "llama3.1:8b", "k": 0, "out": "领导就知道提出理想化的目标，谁信谁太天真了。"}
+{"id": "s006-llama318b-k1", "sent": 6, "src": "领导就知道画饼，谁信谁是傻子。", "model": "llama3.1:8b", "k": 1, "out": "领导可能有意或无意地对我们的期望做出承诺却没有做到，这让我们感到失望。"}
+{"id": "s007-llama318b-k0", "sent": 7, "src": "新来的实习生什么都不会，招他进来纯属浪费钱。", "model": "llama3.1:8b", "k": 0, "out": "新来的实习生还不熟悉公司的流程，需要额外的指导和培训。"}
+{"id": "s007-llama318b-k1", "sent": 7, "src": "新来的实习生什么都不会，招他进来纯属浪费钱。", "model": "llama3.1:8b", "k": 1, "out": "新来的实习生技能还不够全面，招他进来可能会花更多的时间和资源来培养。"}
+{"id": "s008-llama318b-k0", "sent": 8, "src": "你妈又来管我们的事了，她能不能别这么烦人？", "model": "llama3.1:8b", "k": 0, "out": "我妈的确经常过来插手我们的生活，我希望她能理解我们需要一点空间和独立。"}
+{"id": "s008-llama318b-k1", "sent": 8, "src": "你妈又来管我们的事了，她能不能别这么烦人？", "model": "llama3.1:8b", "k": 1, "out": "我妈总是想帮忙，但她不太理解我们现在的想法和感受。"}
+{"id": "s009-llama318b-k0", "sent": 9, "src": "审稿人二号明显没看懂论文，就知道乱提意见。", "model": "llama3.1:8b", "k": 0, "out": "审稿人二号显然没有认真读过论文，仅凭借个人猜测而提出了一些无关痛痒的意见。"}
+{"id": "s009-llama318b-k1", "sent": 9, "src": "审稿人二号明显没看懂论文，就知道乱提意见。", "model": "llama3.1:8b", "k": 1, "out": "审稿人二号似乎对论文缺乏深入理解，仅仅是提出了一些似是而非的意见。"}
+{"id": "s010-llama318b-k0", "sent": 10, "src": "外地人一来，这个小区就变乱了。", "model": "llama3.1:8b", "k": 0, "out": "外地的朋友来了，我们的生活也会有变化。"}
+{"id": "s010-llama318b-k1", "sent": 10, "src": "外地人一来，这个小区就变乱了。", "model": "llama3.1:8b", "k": 1, "out": "来新的居民虽然会有些影响，但我们也可以试着去了解他们。"}
+{"id": "s011-llama318b-k0", "sent": 11, "src": "我辛辛苦苦做的饭，你一口不吃，你根本不在乎我。", "model": "llama3.1:8b", "k": 0, "out": "我知道做饭很辛苦，你辛苦做的饭我应该好好享受。"}
+{"id": "s011-llama318b-k1", "sent": 11, "src": "我辛辛苦苦做的饭，你一口不吃，你根本不在乎我。", "model": "llama3.1:8b", "k": 1, "out": "我辛辛苦苦做的饭，你不吃我很伤心，希望你能体谅我。"}
+{"id": "s012-llama318b-k0", "sent": 12, "src": "客服全是机器人，问什么都答非所问，这公司烂透了。", "model": "llama3.1:8b", "k": 0, "out": "公司的客服人员都需要改进交流技巧，提供更准确的帮助和支持。"}
+{"id": "s012-llama318b-k1", "sent": 12, "src": "客服全是机器人，问什么都答非所问，这公司烂透了。", "model": "llama3.1:8b", "k": 1, "out": "这家公司的服务真让人失望，希望他们能改善。"}
+{"id": "s013-llama318b-k0", "sent": 13, "src": "你考这点分数，还好意思玩手机？", "model": "llama3.1:8b", "k": 0, "out": "我知道手机在课堂上很不应该！"}
+{"id": "s013-llama318b-k1", "sent": 13, "src": "你考这点分数，还好意思玩手机？", "model": "llama3.1:8b", "k": 1, "out": "你每天都要完成好几小时的作业，根本没时间玩手机。"}
+{"id": "s014-llama318b-k0", "sent": 14, "src": "隔壁组抢了我们的功劳，这笔账我迟早要算。", "model": "llama3.1:8b", "k": 0, "out": "隔壁组似乎没有及时归功于我们的合作，希望我们能未来在这种情况下有一个更好的结果。"}
+{"id": "s014-llama318b-k1", "sent": 14, "src": "隔壁组抢了我们的功劳，这笔账我迟早要算。", "model": "llama3.1:8b", "k": 1, "out": "隔壁组的工作似乎与我们的目标冲突了，我们应该好好交流一下彼此的需求和目标。"}
+{"id": "s015-llama318b-k0", "sent": 15, "src": "开车的人都一样，没一个守规矩的。", "model": "llama3.1:8b", "k": 0, "out": "开车的人有各种情况，不同的人会有不同的驾驶习惯，有些人可能会遵守交通规则，但也有可能会有不守规矩的行为。"}
+{"id": "s015-llama318b-k1", "sent": 15, "src": "开车的人都一样，没一个守规矩的。", "model": "llama3.1:8b", "k": 1, "out": "我在路上开车时，经常遇到一些不守规矩的司机。"}
+{"id": "s016-llama318b-k0", "sent": 16, "src": "他那么有钱，肯定是走了什么歪门邪道。", "model": "llama3.1:8b", "k": 0, "out": "他赚了那么多钱，可能是因为他的勤奋和智慧。"}
+{"id": "s016-llama318b-k1", "sent": 16, "src": "他那么有钱，肯定是走了什么歪门邪道。", "model": "llama3.1:8b", "k": 1, "out": "他赚得了很多钱，可能是因为他工作努力了很久。"}
+{"id": "s017-llama318b-k0", "sent": 17, "src": "你一个女生，学什么编程，早晚要转行。", "model": "llama3.1:8b", "k": 0, "out": "你是一个女生，正在学编程，早晚要转行，希望你能找到适合自己的职业。"}
+{"id": "s017-llama318b-k1", "sent": 17, "src": "你一个女生，学什么编程，早晚要转行。", "model": "llama3.1:8b", "k": 1, "out": "我是一个女孩，正在学习编程，未来可能会转行。"}
+{"id": "s018-llama318b-k0", "sent": 18, "src": "年轻人就是吃不了苦，动不动就辞职。", "model": "llama3.1:8b", "k": 0, "out": "年轻人经常遇到困难时，会选择离开工作岗位。"}
+{"id": "s018-llama318b-k1", "sent": 18, "src": "年轻人就是吃不了苦，动不动就辞职。", "model": "llama3.1:8b", "k": 1, "out": "年轻人也需要学习如何承受挑战和解决问题。"}
+{"id": "s019-llama318b-k0", "sent": 19, "src": "老年人真麻烦，在队伍里慢吞吞的，耽误大家时间。", "model": "llama3.1:8b", "k": 0, "out": "老年人可能由于经验丰富或身体条件不佳，需要多一些时间来完成任务，希望大家能理解并支持他们。"}
+{"id": "s019-llama318b-k1", "sent": 19, "src": "老年人真麻烦，在队伍里慢吞吞的，耽误大家时间。", "model": "llama3.1:8b", "k": 1, "out": "我觉得我们队伍里的老年朋友可能需要一些帮助，他们可能不知道前面有堵车或者路上有坑。"}
+{"id": "s020-llama318b-k0", "sent": 20, "src": "群里这些人天天发广告，恶心死了，全踢了算了。", "model": "llama3.1:8b", "k": 0, "out": "我觉得他们的广告太多了，希望他们能注意一下群里的氛围。"}
+{"id": "s020-llama318b-k1", "sent": 20, "src": "群里这些人天天发广告，恶心死了，全踢了算了。", "model": "llama3.1:8b", "k": 1, "out": "你们在发广告，真的很烦我了，能不能稍微考虑一下别人的感受？"}
+{"id": "s021-llama318b-k0", "sent": 21, "src": "你每次都说下次改，我再信你我就是傻瓜。", "model": "llama3.1:8b", "k": 0, "out": "你每次都说下次改，我希望你能信任我。"}
+{"id": "s021-llama318b-k1", "sent": 21, "src": "你每次都说下次改，我再信你我就是傻瓜。", "model": "llama3.1:8b", "k": 1, "out": "你每次都说要改，我再信你我就是傻瓜了。"}
+{"id": "s022-llama318b-k0", "sent": 22, "src": "室友从来不打扫卫生，简直是个寄生虫。", "model": "llama3.1:8b", "k": 0, "out": "我希望我们可以一起维持一个干净的环境，彼此都能有一个舒适的居住空间。"}
+{"id": "s022-llama318b-k1", "sent": 22, "src": "室友从来不打扫卫生，简直是个寄生虫。", "model": "llama3.1:8b", "k": 1, "out": "我们都需要帮助保持房间的整洁，能不能一起分摊工作？"}
+{"id": "s023-llama318b-k0", "sent": 23, "src": "这种低级错误都犯，你到底有没有脑子？", "model": "llama3.1:8b", "k": 0, "out": "这种错误真的是蛮低级的，你都不知道自己应该怎么做。"}
+{"id": "s023-llama318b-k1", "sent": 23, "src": "这种低级错误都犯，你到底有没有脑子？", "model": "llama3.1:8b", "k": 1, "out": "你说的话我都听到了，我很抱歉你觉得自己犯了低级错误。"}
+{"id": "s024-llama318b-k0", "sent": 24, "src": "物业收钱不办事，就是一群吸血鬼。", "model": "llama3.1:8b", "k": 0, "out": "物业收钱但不认真办事，希望大家能够一起沟通和协商。"}
+{"id": "s024-llama318b-k1", "sent": 24, "src": "物业收钱不办事，就是一群吸血鬼。", "model": "llama3.1:8b", "k": 1, "out": "物业收了我们的钱，却办事不力。"}
+{"id": "s025-llama318b-k0", "sent": 25, "src": "别跟我提他，我这辈子都不会原谅他。", "model": "llama3.1:8b", "k": 0, "out": "我理解你现在的情绪，但是能不能试着和我谈谈你的感受？我想知道你对过去的事情有哪些遗憾和不满。"}
+{"id": "s025-llama318b-k1", "sent": 25, "src": "别跟我提他，我这辈子都不会原谅他。", "model": "llama3.1:8b", "k": 1, "out": "我知道这件事让你很难过，但我希望你能给自己留点时间和空间去接受和释放你的情绪。"}
+{"id": "s026-llama318b-k0", "sent": 26, "src": "你要是真爱我，就不会跟那些朋友出去。", "model": "llama3.1:8b", "k": 0, "out": "我想跟朋友们一起玩，但我也很想和你在一起，能不能一起出来？"}
+{"id": "s026-llama318b-k1", "sent": 26, "src": "你要是真爱我，就不会跟那些朋友出去。", "model": "llama3.1:8b", "k": 1, "out": "你要是真爱我，就会和我一起出去玩，分享我的快乐。"}
+{"id": "s027-llama318b-k0", "sent": 27, "src": "那些反对这个政策的人，要么是蠢，要么是坏。", "model": "llama3.1:8b", "k": 0, "out": "这些人可能有不同的看法和忧虑。"}
+{"id": "s027-llama318b-k1", "sent": 27, "src": "那些反对这个政策的人，要么是蠢，要么是坏。", "model": "llama3.1:8b", "k": 1, "out": "我认为有些反对者可能是有真实的担忧和顾虑，甚至可能是有道理的。"}
+{"id": "s028-llama318b-k0", "sent": 28, "src": "网上骂我的那些人，我记住了，等着瞧。", "model": "llama3.1:8b", "k": 0, "out": "那些不合理的言论，会让他们自食其果。"}
+{"id": "s028-llama318b-k1", "sent": 28, "src": "网上骂我的那些人，我记住了，等着瞧。", "model": "llama3.1:8b", "k": 1, "out": "那些在网上对我的态度不佳的人，今后还会遇见他们的。"}
+{"id": "s029-llama318b-k0", "sent": 29, "src": "你们男人都一个样，只顾自己。", "model": "llama3.1:8b", "k": 0, "out": "我感觉你们男人总是很忙，似乎都把个人事务放在第一位，偶尔也会忽略家人的需要。"}
+{"id": "s029-llama318b-k1", "sent": 29, "src": "你们男人都一个样，只顾自己。", "model": "llama3.1:8b", "k": 1, "out": "我感觉你们男人有时候会把自己的需要放在第一位。"}
+{"id": "s030-llama318b-k0", "sent": 30, "src": "这家餐厅服务员态度差得要命，一辈子不会再来。", "model": "llama3.1:8b", "k": 0, "out": "这家餐厅的服务员态度并不理想，可能下次我不会再来。"}
+{"id": "s030-llama318b-k1", "sent": 30, "src": "这家餐厅服务员态度差得要命，一辈子不会再来。", "model": "llama3.1:8b", "k": 1, "out": "我是真心希望他们能改进服务质量，一次好的服务经验就能让我再次回来。"}
+{"id": "s031-llama318b-k0", "sent": 31, "src": "我爸就是个老顽固，跟他说什么都没用。", "model": "llama3.1:8b", "k": 0, "out": "我爸很固执，跟他沟通起来有些困难。"}
+{"id": "s031-llama318b-k1", "sent": 31, "src": "我爸就是个老顽固，跟他说什么都没用。", "model": "llama3.1:8b", "k": 1, "out": "我爸比较固执，和他沟通起来确实有点难度。"}
+{"id": "s032-llama318b-k0", "sent": 32, "src": "你这种水平也配当组长？", "model": "llama3.1:8b", "k": 0, "out": "你这样的能力也配当领导？"}
+{"id": "s032-llama318b-k1", "sent": 32, "src": "你这种水平也配当组长？", "model": "llama3.1:8b", "k": 1, "out": "你觉得我配得上吗？"}
+{"id": "s033-llama318b-k0", "sent": 33, "src": "每次借钱都不还，这种朋友不要也罢。", "model": "llama3.1:8b", "k": 0, "out": "我希望我们能找到一种解决方法，让彼此都能感到舒适。"}
+{"id": "s033-llama318b-k1", "sent": 33, "src": "每次借钱都不还，这种朋友不要也罢。", "model": "llama3.1:8b", "k": 1, "out": "这个朋友经常借钱却不还，这让人很困扰。"}
+{"id": "s034-llama318b-k0", "sent": 34, "src": "同事背后说我坏话，我也要让他尝尝被孤立的滋味。", "model": "llama3.1:8b", "k": 0, "out": "我希望同事能够体会一下被孤立的感觉。"}
+{"id": "s034-llama318b-k1", "sent": 34, "src": "同事背后说我坏话，我也要让他尝尝被孤立的滋味。", "model": "llama3.1:8b", "k": 1, "out": "同事在背后说我坏话，我也希望他能体会一下被孤立的感觉。"}
+{"id": "s035-llama318b-k0", "sent": 35, "src": "孩子成绩差都是老师的错，他们根本不负责。", "model": "llama3.1:8b", "k": 0, "out": "孩子成绩差可能是他们学习方式和兴趣的体现，我们可以帮助他们找到适合自己的学习方式。"}
+{"id": "s035-llama318b-k1", "sent": 35, "src": "孩子成绩差都是老师的错，他们根本不负责。", "model": "llama3.1:8b", "k": 1, "out": "孩子的成绩差，可能是老师在授课时的讲解不够清晰，也可能是孩子自己学习态度不够好。"}
+{"id": "s036-llama318b-k0", "sent": 36, "src": "那个国家的人素质都不行。", "model": "llama3.1:8b", "k": 0, "out": "有些人在旅行中可能会遇到不好的服务。"}
+{"id": "s036-llama318b-k1", "sent": 36, "src": "那个国家的人素质都不行。", "model": "llama3.1:8b", "k": 1, "out": "我觉得那个国家的人的生活经历和教育背景各不相同，才会有所不同。"}
+{"id": "s037-llama318b-k0", "sent": 37, "src": "你别哭了，哭有什么用，真没出息。", "model": "llama3.1:8b", "k": 0, "out": "我知道你难过，但我想听听发生什么事了。"}
+{"id": "s037-llama318b-k1", "sent": 37, "src": "你别哭了，哭有什么用，真没出息。", "model": "llama3.1:8b", "k": 1, "out": "我知道你很伤心，我在这里陪伴你，希望你能平静下来。"}
+{"id": "s038-llama318b-k0", "sent": 38, "src": "项目延期全是你拖的后腿。", "model": "llama3.1:8b", "k": 0, "out": "项目进展慢是因为我缺乏足够的支持和资源。"}
+{"id": "s038-llama318b-k1", "sent": 38, "src": "项目延期全是你拖的后腿。", "model": "llama3.1:8b", "k": 1, "out": "这次项目延期真的是因为你没有按时完成你的部分。"}
+{"id": "s039-llama318b-k0", "sent": 39, "src": "他就是个马屁精，靠拍领导上位的。", "model": "llama3.1:8b", "k": 0, "out": "他表现出了对领导的钦佩和支持，帮助他们在事业上取得成功。"}
+{"id": "s039-llama318b-k1", "sent": 39, "src": "他就是个马屁精，靠拍领导上位的。", "model": "llama3.1:8b", "k": 1, "out": "他一直以行政工作为业，做得很努力，领导很欣赏他。"}
+{"id": "s040-llama318b-k0", "sent": 40, "src": "你连这个都不知道？自己去查，别来烦我。", "model": "llama3.1:8b", "k": 0, "out": "你都不知道该怎么查，真不容易。"}
+{"id": "s040-llama318b-k1", "sent": 40, "src": "你连这个都不知道？自己去查，别来烦我。", "model": "llama3.1:8b", "k": 1, "out": "你还不知道怎么查的？"}
+{"id": "s041-llama318b-k0", "sent": 41, "src": "房东又涨租，这些人心都是黑的。", "model": "llama3.1:8b", "k": 0, "out": "我理解房东的需求，但我觉得租金涨价可能会让大家感到不满，是否可以沟通一下房东的想法？"}
+{"id": "s041-llama318b-k1", "sent": 41, "src": "房东又涨租，这些人心都是黑的。", "model": "llama3.1:8b", "k": 1, "out": "房东涨租，希望我们能理解他们的难处。"}
+{"id": "s042-llama318b-k0", "sent": 42, "src": "她穿成那样，被人说闲话也是活该。", "model": "llama3.1:8b", "k": 0, "out": "她穿成那样，可能会引起一些议论。"}
+{"id": "s042-llama318b-k1", "sent": 42, "src": "她穿成那样，被人说闲话也是活该。", "model": "llama3.1:8b", "k": 1, "out": "她穿成那样，可能会引起一些闲言碎语，但她也需要被理解和尊严对待。"}
+{"id": "s043-llama318b-k0", "sent": 43, "src": "导师只会压榨学生，从来不管我们的死活。", "model": "llama3.1:8b", "k": 0, "out": "导师的工作重量很大，希望他能给我们更多的支持和理解。"}
+{"id": "s043-llama318b-k1", "sent": 43, "src": "导师只会压榨学生，从来不管我们的死活。", "model": "llama3.1:8b", "k": 1, "out": "导师总是给我们压力，让我们觉得自己没有能力。"}
+{"id": "s044-llama318b-k0", "sent": 44, "src": "你们部门的人都是来混日子的。", "model": "llama3.1:8b", "k": 0, "out": "部门里的人都在尽力做好工作。"}
+{"id": "s044-llama318b-k1", "sent": 44, "src": "你们部门的人都是来混日子的。", "model": "llama3.1:8b", "k": 1, "out": "你们部门的人的工作态度让我很失望。"}
+{"id": "s045-llama318b-k0", "sent": 45, "src": "我不想听你解释，你说什么都是借口。", "model": "llama3.1:8b", "k": 0, "out": "我不想听你解释了。"}
+{"id": "s045-llama318b-k1", "sent": 45, "src": "我不想听你解释，你说什么都是借口。", "model": "llama3.1:8b", "k": 1, "out": "我想听听你的想法，希望你能愿意和我交流。"}
+{"id": "s046-llama318b-k0", "sent": 46, "src": "这破城市交通这么烂，住这儿的人都是受罪。", "model": "llama3.1:8b", "k": 0, "out": "这城市交通真的比较拥挤，希望城市可以尽快解决这个问题。"}
+{"id": "s046-llama318b-k1", "sent": 46, "src": "这破城市交通这么烂，住这儿的人都是受罪。", "model": "llama3.1:8b", "k": 1, "out": "这城市交通经常卡住，生活质量堪忧。"}
+{"id": "s047-llama318b-k0", "sent": 47, "src": "他发的朋友圈全是炫耀，看着就恶心。", "model": "llama3.1:8b", "k": 0, "out": "他发的朋友圈总是自我炫耀，看着就让人不舒服。"}
+{"id": "s047-llama318b-k1", "sent": 47, "src": "他发的朋友圈全是炫耀，看着就恶心。", "model": "llama3.1:8b", "k": 1, "out": "他发的朋友圈里很多炫耀的内容，让我感到不舒服。"}
+{"id": "s048-llama318b-k0", "sent": 48, "src": "你总是这样，一遇到事就逃避。", "model": "llama3.1:8b", "k": 0, "out": "我知道我有逃避的倾向，但我希望你能理解我真正的担忧和感受。"}
+{"id": "s048-llama318b-k1", "sent": 48, "src": "你总是这样，一遇到事就逃避。", "model": "llama3.1:8b", "k": 1, "out": "我知道我没有处理好这件事，我希望我们能一起找到一个解决方案。"}
+{"id": "s049-llama318b-k0", "sent": 49, "src": "Your team always ships broken code and then blames us for it.", "model": "llama3.1:8b", "k": 0, "out": "我很失望，我们的团队总是交付有问题的代码，然后怪我们做错了事。"}
+{"id": "s049-llama318b-k1", "sent": 49, "src": "Your team always ships broken code and then blames us for it.", "model": "llama3.1:8b", "k": 1, "out": "We've noticed that our code isn't meeting your expectations, and we'd like to work together to improve it. Can we discuss what's not working as planned and how we can collaborate to get it right?"}
+{"id": "s050-llama318b-k0", "sent": 50, "src": "People like him never listen; there's no point even talking to them.", "model": "llama3.1:8b", "k": 0, "out": "People like him often struggle to hear others; maybe we need to find a more effective way to communicate."}
+{"id": "s050-llama318b-k1", "sent": 50, "src": "People like him never listen; there's no point even talking to them.", "model": "llama3.1:8b", "k": 1, "out": "People like him often struggle to hear others; it's helpful to approach the conversation in a clear and respectful way."}
+{"id": "s051-llama318b-k0", "sent": 51, "src": "You never help around the house, and I'm sick of it.", "model": "llama3.1:8b", "k": 0, "out": "I feel like we're not sharing household responsibilities as evenly as we should be."}
+{"id": "s051-llama318b-k1", "sent": 51, "src": "You never help around the house, and I'm sick of it.", "model": "llama3.1:8b", "k": 1, "out": "I feel overwhelmed when I'm carrying the load of household responsibilities by myself. Can we work together to find a way to share the tasks and make things more balanced?"}
+{"id": "s052-llama318b-k0", "sent": 52, "src": "Reviewer 2 clearly didn't read the paper. What a waste of time.", "model": "llama3.1:8b", "k": 0, "out": "Reviewer 2 seems to have missed the key points in our paper. I'd appreciate it if they could take another look."}
+{"id": "s052-llama318b-k1", "sent": 52, "src": "Reviewer 2 clearly didn't read the paper. What a waste of time.", "model": "llama3.1:8b", "k": 1, "out": "Reviewer 2 seems to have missed the main points of our study, which is unfortunate because we could have learned from each other's perspectives."}
+{"id": "s053-llama318b-k0", "sent": 53, "src": "Anyone who supports that idea is an idiot.", "model": "llama3.1:8b", "k": 0, "out": "I strongly disagree with that idea, and I'd like to discuss the reasons why."}
+{"id": "s053-llama318b-k1", "sent": 53, "src": "Anyone who supports that idea is an idiot.", "model": "llama3.1:8b", "k": 1, "out": "I disagree with that idea, and I think we can have a more constructive conversation about it."}
+{"id": "s054-llama318b-k0", "sent": 54, "src": "Those tourists are so rude, they ruin everything here.", "model": "llama3.1:8b", "k": 0, "out": "I feel frustrated when tourists disrupt the local way of life, but I think we could find ways to peacefully coexist."}
+{"id": "s054-llama318b-k1", "sent": 54, "src": "Those tourists are so rude, they ruin everything here.", "model": "llama3.1:8b", "k": 1, "out": "I've noticed that some tourists can be quite insensitive to the local culture and environment. Maybe we can find a way to respectfully share our heritage with them, while also preserving our community's character."}
+{"id": "s055-llama318b-k0", "sent": 55, "src": "My landlord is a greedy parasite who only cares about money.", "model": "llama3.1:8b", "k": 0, "out": "My landlord seems to be struggling with managing the property's expenses, which affects the rent."}
+{"id": "s055-llama318b-k1", "sent": 55, "src": "My landlord is a greedy parasite who only cares about money.", "model": "llama3.1:8b", "k": 1, "out": "My landlord seems to have a different priority, focusing mainly on the financial aspects of our rental agreement."}
+{"id": "s056-llama318b-k0", "sent": 56, "src": "You're always late. You just don't respect anyone's time.", "model": "llama3.1:8b", "k": 0, "out": "I feel like I've been waiting for you for a while, and I'm worried that it's impacting our plans together. Could we find a way to communicate better about arrival times in the future?"}
+{"id": "s056-llama318b-k1", "sent": 56, "src": "You're always late. You just don't respect anyone's time.", "model": "llama3.1:8b", "k": 1, "out": "I feel like we're having trouble finding a rhythm that works for both of us, and I wish we could find a way to communicate our time constraints more clearly."}
+{"id": "s057-llama318b-k0", "sent": 57, "src": "Those people from the other department are completely useless.", "model": "llama3.1:8b", "k": 0, "out": "I feel frustrated when our teams aren't able to collaborate effectively. Can we explore ways to improve our communication and work together more smoothly?"}
+{"id": "s057-llama318b-k1", "sent": 57, "src": "Those people from the other department are completely useless.", "model": "llama3.1:8b", "k": 1, "out": "I'm finding it challenging to work with the other department, and I think we could improve our collaboration if we could find more effective ways to communicate and share information."}
+{"id": "s058-llama318b-k0", "sent": 58, "src": "If you really cared, you wouldn't have forgotten my birthday.", "model": "llama3.1:8b", "k": 0, "out": "I feel hurt that I forgot your special day. Can we plan something special together to make up for it?"}
+{"id": "s058-llama318b-k1", "sent": 58, "src": "If you really cared, you wouldn't have forgotten my birthday.", "model": "llama3.1:8b", "k": 1, "out": "You must have been really busy lately, and I feel like I've been neglecting you too - can we catch up and make some new memories together?"}
+{"id": "s059-llama318b-k0", "sent": 59, "src": "I'll never forgive her for what she said. She's dead to me.", "model": "llama3.1:8b", "k": 0, "out": "I'm still hurt by what she said, but I want to work on healing and moving forward. I wish we could have a more open and honest conversation."}
+{"id": "s059-llama318b-k1", "sent": 59, "src": "I'll never forgive her for what she said. She's dead to me.", "model": "llama3.1:8b", "k": 1, "out": "I'm still hurt by what she said, and I wish she could understand the impact of her words on me. I'm choosing to distance myself from her right now, but I'm not closing the door on forgiveness entirely."}

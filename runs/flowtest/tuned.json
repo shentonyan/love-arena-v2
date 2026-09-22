@@ -1,0 +1,89 @@
+{
+ "choice": {
+  "hate_residue": {
+   "gemma4:26b": {
+    "variant": "anchored",
+    "metric": "spearman",
+    "dev_value": 0.5752873279220831
+   },
+   "qwen2.5:7b": {
+    "variant": "binary_anchored",
+    "metric": "spearman",
+    "dev_value": 0.3687320933363324
+   },
+   "llama3.1:8b": {
+    "variant": "binary",
+    "metric": "spearman",
+    "dev_value": 0.25365287364611416
+   }
+  },
+  "fluency": {
+   "gemma4:26b": {
+    "variant": "binary_anchored",
+    "metric": "spearman",
+    "dev_value": 0.4155072147218491
+   },
+   "qwen2.5:7b": {
+    "variant": "anchored",
+    "metric": "spearman",
+    "dev_value": 0.4461729732551771
+   },
+   "llama3.1:8b": {
+    "variant": "base",
+    "metric": "spearman",
+    "dev_value": 0.3657789576407767
+   }
+  },
+  "honesty": {
+   "gemma4:26b": {
+    "variant": "guided",
+    "metric": "AUC",
+    "dev_value": 0.9568965517241379
+   },
+   "qwen2.5:7b": {
+    "variant": "guided",
+    "metric": "AUC",
+    "dev_value": 0.7701149425287356
+   },
+   "llama3.1:8b": {
+    "variant": "base",
+    "metric": "AUC",
+    "dev_value": 0.5086206896551724
+   }
+  },
+  "equal_connection": {
+   "gemma4:26b": {
+    "variant": "base",
+    "metric": "spearman",
+    "dev_value": 0.5773902561226723
+   },
+   "qwen2.5:7b": {
+    "variant": "base",
+    "metric": "spearman",
+    "dev_value": 0.6439342407620582
+   },
+   "llama3.1:8b": {
+    "variant": "base",
+    "metric": "spearman",
+    "dev_value": 0.5525354168269015
+   }
+  },
+  "condescending": {
+   "gemma4:26b": {
+    "variant": "guided",
+    "metric": "AUC",
+    "dev_value": 0.9145299145299145
+   },
+   "qwen2.5:7b": {
+    "variant": "guided",
+    "metric": "AUC",
+    "dev_value": 0.9658119658119658
+   },
+   "llama3.1:8b": {
+    "variant": "guided",
+    "metric": "AUC",
+    "dev_value": 0.9743589743589743
+   }
+  }
+ }
+}

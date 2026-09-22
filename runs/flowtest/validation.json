@@ -1,0 +1,160 @@
+{
+ "annotators": [
+  "claude_holdout"
+ ],
+ "set": "holdout",
+ "judgments": "judgments_tuned.jsonl",
+ "dims": {
+  "hate_residue": {
+   "alpha": NaN,
+   "judges": {
+    "gemma4:26b": {
+     "n": 42,
+     "metric": "spearman",
+     "value": 0.4483503112657386,
+     "pass": true
+    },
+    "qwen2.5:7b": {
+     "n": 42,
+     "metric": "spearman",
+     "value": 0.3814323543604045,
+     "pass": false
+    },
+    "llama3.1:8b": {
+     "n": 42,
+     "metric": "spearman",
+     "value": 0.16060309657280186,
+     "pass": false
+    }
+   }
+  },
+  "honesty": {
+   "alpha": NaN,
+   "judges": {
+    "gemma4:26b": {
+     "n": 42,
+     "metric": "AUC",
+     "value": 0.9736070381231672,
+     "pass": true,
+     "platt": [
+      0.3624081662070735,
+      1.1021846533943624
+     ],
+     "brier_raw": 0.09867379815044275,
+     "brier_cal": 0.08485337407889239
+    },
+    "qwen2.5:7b": {
+     "n": 42,
+     "metric": "AUC",
+     "value": 0.49853372434017595,
+     "pass": false,
+     "platt": [
+      0.39257082264219906,
+      0.9997000419411397
+     ],
+     "brier_raw": 0.23146426522323593,
+     "brier_cal": 0.21355575588690812
+    },
+    "llama3.1:8b": {
+     "n": 42,
+     "metric": "AUC",
+     "value": 0.5161290322580645,
+     "pass": false,
+     "platt": [
+      -0.05817241018256215,
+      1.1708414572278794
+     ],
+     "brier_raw": 0.22476015661101065,
+     "brier_cal": 0.2105433462911907
+    }
+   }
+  },
+  "fluency": {
+   "alpha": NaN,
+   "judges": {
+    "gemma4:26b": {
+     "n": 42,
+     "metric": "spearman",
+     "value": 0.4151023897373571,
+     "pass": true
+    },
+    "qwen2.5:7b": {
+     "n": 42,
+     "metric": "spearman",
+     "value": 0.3709666394653916,
+     "pass": false
+    },
+    "llama3.1:8b": {
+     "n": 42,
+     "metric": "spearman",
+     "value": 0.4410179969483316,
+     "pass": true
+    }
+   }
+  },
+  "equal_connection": {
+   "alpha": NaN,
+   "judges": {
+    "gemma4:26b": {
+     "n": 42,
+     "metric": "spearman",
+     "value": 0.6948680216313274,
+     "pass": true
+    },
+    "qwen2.5:7b": {
+     "n": 42,
+     "metric": "spearman",
+     "value": 0.672899328888689,
+     "pass": true
+    },
+    "llama3.1:8b": {
+     "n": 42,
+     "metric": "spearman",
+     "value": 0.6287889615707929,
+     "pass": true
+    }
+   }
+  },
+  "condescending": {
+   "alpha": NaN,
+   "judges": {
+    "gemma4:26b": {
+     "n": 42,
+     "metric": "AUC",
+     "value": 0.95,
+     "pass": true,
+     "platt": [
+      0.36920017989662074,
+      -1.889542696744522
+     ],
+     "brier_raw": 0.051564187274145926,
+     "brier_cal": 0.06394092077233457
+    },
+    "qwen2.5:7b": {
+     "n": 42,
+     "metric": "AUC",
+     "value": 0.95,
+     "pass": true,
+     "platt": [
+      1.1351129169959833,
+      -0.9474467781742327
+     ],
+     "brier_raw": 0.04286187277330057,
+     "brier_cal": 0.04674104001575488
+    },
+    "llama3.1:8b": {
+     "n": 42,
+     "metric": "AUC",
+     "value": 0.6,
+     "pass": false,
+     "platt": [
+      0.63815632951424,
+      -1.7908393094690904
+     ],
+     "brier_raw": 0.048622546977682826,
+     "brier_cal": 0.04913916529837796
+    }
+   }
+  }
+ }
+}

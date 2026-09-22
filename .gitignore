@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+runs/main/
+runs/fake/
+runs/neg/
+_analysis_cache.json
+.DS_Store
